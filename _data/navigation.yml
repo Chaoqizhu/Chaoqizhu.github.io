@@ -3,12 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Services"
+    url: /Services/  
+  
+  - title: "Awards"
+    url: /Awards/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
+  - title: "Group"
+    url: /Group/
+  
   - title: "Portfolio"
     url: /portfolio/
         
@@ -16,7 +19,4 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /cv/  
