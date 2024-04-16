@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Chaoqi Zhu/Homepage"
 title_separator          : "-"
 name                     : &name "Chaoqi Zhu"
 description              : &description "Seafloor Evolution under Fluids: Processes & Mechanisms"
