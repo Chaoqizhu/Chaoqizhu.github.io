@@ -6,11 +6,11 @@ collection: portfolio
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-<img src="http://nwzimg.wezhan.cn/contents/sitefiles2051/10257176/images/25878741.jpg" width="128" height="128">  
+<img src="" width="128" height="128">  
 
-<!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='http://nwzimg.wezhan.cn/contents/sitefiles2051/10257176/images/25878741.jpg' alt="sym" width="128"></div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='' alt="sym" width="128"></div>   
 <div class='paper-box-text' markdown="1">
 
 **SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field** 
