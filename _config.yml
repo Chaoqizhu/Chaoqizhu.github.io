@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chaoqi Zhu / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Chaoqi Zhu"
 description              : &description "Seafloor Evolution under Fluids: Processes & Mechanisms"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Chaoqi zhu profile.jpg"
-  name             : "Assoc. Prof. Chaoqi Zhu"
+  name             : "Chaoqi Zhu"
   pronouns         : Editor-in-Chief of JMEE   # example: "she/her"  
   bio              : "'Seafloor Evolution under Fluids'"
   location         :  "Qingdao"
