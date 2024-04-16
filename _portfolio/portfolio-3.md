@@ -8,11 +8,10 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 <img src="http://nwzimg.wezhan.cn/contents/sitefiles2051/10257176/images/25878741.jpg" width="128" height="128">  
 
-
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='http://nwzimg.wezhan.cn/contents/sitefiles2051/10257176/images/25878741.jpg' alt="sym"  width="128" height="128"></div>
- <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><img src='http://nwzimg.wezhan.cn/contents/sitefiles2051/10257176/images/25878741.jpg' alt="sym" width="128"></div>
+<div class='paper-box-text' markdown="1">
 
 **SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field** 
   
@@ -21,5 +20,5 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 **Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
   
 [Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| [code](https://github.com/liru0126/SpectralNeRF) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
- </div>
+</div>
 </div>
