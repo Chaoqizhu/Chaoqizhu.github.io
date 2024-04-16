@@ -2,8 +2,8 @@
 title: "Seafloor breathing helping forecast hydrate-related geohazards"
 collection: publications
 permalink: /publication/2021-Energy Reports-1
-excerpt: '* This paper is featured in [EOS](https://eos.org/), science news magazine published by [AGU](https://www.agu.org/). This study uses visual methods to enhance understanding of seafloor geohazards associated with hydrate dissociation, revealing a distinctive "breathing cycle" of pressure and deformation that aids in forecasting geohazards.
-![image](https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/dba5a9b5-6ab0-4ef8-88b1-07e066f9e80d)'
+excerpt: '* This paper is featured in EOS, science news magazine published by AGU. This study uses visual methods to enhance understanding of seafloor geohazards associated with hydrate dissociation, revealing a distinctive "breathing cycle" of pressure and deformation that aids in forecasting geohazards.
+![image](https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/257cd23b-8e8a-42ee-8ce0-3287d91b8f08)'
 date: 2021-11-30
 venue: 'Energy Reports'
 paperurl: 'https://doi.org/10.1016/j.egyr.2021.08.187'
@@ -23,8 +23,8 @@ Gas hydrate dissociation may pose serious geohazards. The response of the seaflo
 ## Keywords
 Gas hydrate, Geohazards, Seafloor deformation, Overpressure, Inflation–deflation cycle
 
-## Featured in [EOS](https://eos.org/), science news magazine published by [AGU](https://www.agu.org/)
-![image](https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/dba5a9b5-6ab0-4ef8-88b1-07e066f9e80d)
+## Featured in [EOS](https://eos.org/), science news magazine published by [AGU](https://www.agu.org/)  
 
+![image](https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/257cd23b-8e8a-42ee-8ce0-3287d91b8f08)
 
 Szakal, F. D. (2021), Forecasting geohazards in the age of gas hydrate exploitation, Eos, 102, [https://doi.org/10.1029/2021EO210582](https://eos.org/articles/forecasting-geohazards-in-the-age-of-gas-hydrate-exploitation). 
