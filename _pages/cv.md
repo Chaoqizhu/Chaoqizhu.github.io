@@ -12,7 +12,7 @@ redirect_from:
 🎓 Education
 ======
 ------
-* Ph.D in Environmental Geotechnical Engineering, Ocean University of China, 2016
+* Ph.D in Environmental Geological Engineering, Ocean University of China, 2016
 * B.S. in Civil Engineering, Shandong University, 2010
 
 💻 Employment
