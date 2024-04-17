@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## **Seabed Evolution Affected by Fluids (SEAFluids)**
-SEAFluids Group’s research primarily focuses on marine engineering geology and environmental geological hazards, specifically exploring the evolutionary processes and mechanisms shaping the seabed, particularly under the influence of marine environmental fluids and shallow geological fluids.
+Our research primarily focuses on marine engineering geology and environmental geological hazards, specifically exploring the evolutionary processes and mechanisms shaping the seabed, particularly under the influence of marine environmental fluids and shallow geological fluids.
 
 
 ## Current Graduate Students
