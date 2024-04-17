@@ -7,9 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-## **<font color='red'>S</font>**eabed **<font color='red'>E</font>**volution **<font color='red'>A</font>**ffected by **<font color='red'>Fluids</font>**
+## **<font color='red'>S</font>**eabed **<font color='red'>E</font>**volution **<font color='red'>A</font>**ffected by **<font color='red'>Fluids</font>** (SEA-Fluids)
 Our research primarily focuses on marine engineering geology and environmental geological hazards, specifically exploring the evolutionary processes and mechanisms shaping the seabed, particularly under the influence of marine environmental fluids and shallow geological fluids.
-
 
 ## Current Graduate Students
 
