@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## **Seabed Evolution Affected by Fluids (SEAFluids)**
+## **S**eabed **E**volution Affected by Fluids (SEAFluids)**
 Our research primarily focuses on marine engineering geology and environmental geological hazards, specifically exploring the evolutionary processes and mechanisms shaping the seabed, particularly under the influence of marine environmental fluids and shallow geological fluids.
 
 
