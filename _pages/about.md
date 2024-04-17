@@ -30,4 +30,7 @@ Dr. Zhu is recognized as a high-level talent in Qingdao and serves as editor-in-
 
 Update: April 15, 2024
 
-[<a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>](http://zhuchaoqi.cn/)
+<div>
+<a href="https://clustrmaps.com/site/1bz8j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=xiuFuNgty-dYz-P-kMW0NjiCrIjzy0IPucrI72iv3DA&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>
+</div>
