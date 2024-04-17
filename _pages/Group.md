@@ -1,6 +1,6 @@
 ---
 permalink: /Group/
-title: "SEAFluids Group"
+title: "SEA-Fluids Group"
 author_profile: true
 redirect_from: 
   - /md/
