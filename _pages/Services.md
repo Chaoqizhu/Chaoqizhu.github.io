@@ -19,7 +19,7 @@ Editorial Activities
 * **Guest Editor**, [Energy Reports](https://www.sciencedirect.com/journal/energy-reports/special-issue/10LNPQPBFC5) 
 * **Guest Editor**, [Water](https://www.mdpi.com/journal/water/special_issues/sediment_dynamics) 
 * **Guest Editor**, [Environmental Geotechnics](https://www.icevirtuallibrary.com/toc/jenge/10/3)
-* **Reviewer**, [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291), [Geomorphology](https://www.sciencedirect.com/journal/geomorphology), [Applied Ocean Research](https://www.sciencedirect.com/journal/applied-ocean-research), [Bulletin of Engineering Geology and the Environment](https://link.springer.com/journal/10064), [Indian Journal of Geo-Marine Sciences](https://or.niscpr.res.in/index.php/IJMS), [Journal of Engineering Geology](http://www.gcdz.org/), [International journal of GEOMATE](https://geomatejournal.com/geomate), [Marine Georesources & Geotechnology](https://www.tandfonline.com/journals/umgt20), etc.
+* **Reviewer**, [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291), [Geomorphology](https://www.sciencedirect.com/journal/geomorphology), [Applied Ocean Research](https://www.sciencedirect.com/journal/applied-ocean-research), [Bulletin of Engineering Geology and the Environment](https://link.springer.com/journal/10064), [Indian Journal of Geo-Marine Sciences](https://or.niscpr.res.in/index.php/IJMS), [Journal of Engineering Geology](http://www.gcdz.org/), [International journal of GEOMATE](https://geomatejournal.com/geomate), [Marine Georesources & Geotechnology](https://www.tandfonline.com/journals/umgt20), [Polish Journal of Environmental Studies](http://www.pjoes.com/), etc.
 
 Conferences
 ======
