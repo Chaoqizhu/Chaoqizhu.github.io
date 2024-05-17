@@ -21,6 +21,7 @@ Dr. Zhu is recognized as a high-level talent in Qingdao and serves as editor-in-
 🔥 News
 ======
 ------
+* **May 17, 2024**, My Key R&D Program of Shandong Province, China Successfully Completes Review by Shandong Provincial Department of Science and Technology with Excellent Results.
 * **April 16, 2024**, PhD Students Xuezhi Feng and Linsen Wang Awarded Graduate Academic Innovation Scholarships by Ocean University of China.
 * **April 11, 2024**, Research on [Submarine Sediment Strength](https://www.sciencedirect.com/science/article/abs/pii/S0263224123016147?via%3Dihub) Published in [Measurement](https://www.sciencedirect.com/journal/measurement).
 * **April 11, 2024**, Research on [Coastal Dune Evolution in Haiyang, China](https://www.frontiersin.org/articles/10.3389/fmars.2024.1326317/full) Published in [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science).
@@ -28,6 +29,6 @@ Dr. Zhu is recognized as a high-level talent in Qingdao and serves as editor-in-
 
 [**↑ Top**](#Top)
 
-Update: April 25, 2024
+Update: May 17, 2024
 
 <a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>
