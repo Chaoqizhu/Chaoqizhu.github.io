@@ -56,6 +56,7 @@ redirect_from:
 ------
 * **Editor-in-Chief**, [Journal of Marine Environmental Engineering](https://www.oldcitypublishing.com/journals/jmee-home/)
 * **Associate Editor**, [Environment, Development and Sustainability](https://link.springer.com/journal/10668)
+* **Editorial Board Member**, [Science Progress](https://journals.sagepub.com/editorial-board/SCI)
 * **Editorial Board Member**, [Thalassas: An International Journal of Marine Sciences](https://link.springer.com/journal/41208)
 * **Editorial Board Member**, [Geoenvironmental Disasters](https://geoenvironmental-disasters.springeropen.com/)
 * **Youth Editorial Board Member**, [China Geology](https://www.sciencedirect.com/journal/china-geology)
