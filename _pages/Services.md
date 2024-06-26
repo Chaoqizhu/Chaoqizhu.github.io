@@ -27,7 +27,7 @@ Conferences
 ------
 * **Convenor**, 2023 3rd International Symposium on Marine Engineering Geology (ISMEG 2023) in Chengdu, China
 * **Convenor**, 2023 Nearshore and Offshore Soft Soil Engineering Academic Symposium in Wenzhou, China
-* **Convenor**, 2023 The 16th National Conference on Youth Rock Mechanics and Engineering in Nangjing, China
+* **Convenor**, 2023 The 16th National Conference on Youth Rock Mechanics and Engineering in Nanjing, China
 * **Convenor**, 2023 Youth Forum on Frontiers of Technological Development for Major Interdisciplinary Innovative Projects in Jinan, China
 * **Organizing Committee Member**, 2023 The 5th Academic Exchange Conference on Marine Geotechnical Engineering in Qingdao, China
 
