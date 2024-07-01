@@ -27,6 +27,6 @@ Our research primarily focuses on marine engineering geology and environmental g
 **Employment**: People's Government of Zhaoyuan
 
 ![image](https://i1.rgstatic.net/ii/profile.image/11431281103741269-1669814357677_Q128/Zhenghui_Li10.jpg) <br>
-**[Zhenghui Li](https://www.researchgate.net/profile/Zhenghui_Li10)** (Ph.D. 2019-2023) (Co-Advised with Yonggang Jia) 
-* Thesis: Triggering mechanism of submarine landslides on the northern slope of the South China Sea
+**[Zhenghui Li](https://www.researchgate.net/profile/Zhenghui_Li10)** (Ph.D. 2019-2023) (Co-Advised with Yonggang Jia)  <br>
+* Thesis: Triggering mechanism of submarine landslides on the northern slope of the South China Sea  <br>
 * Employment: Wuhan Center, China Geological Survey
