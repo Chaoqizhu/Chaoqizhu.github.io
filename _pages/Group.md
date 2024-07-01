@@ -12,8 +12,7 @@ Our research primarily focuses on marine engineering geology and environmental g
 
 ## Current Graduate Students
 
-<img src="http://nwzimg.wezhan.cn/contents/sitefiles2051/10257176/images/25878741.jpg" width="128" height="128">  
-
+<img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/4cffe9c4-37a1-42f4-b50b-37c543658312" width="128" height="128">  
 **[Xuezhi Feng](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (Ph.D. 2020-) (Co-Advised with Yonggang Jia)
 
 
