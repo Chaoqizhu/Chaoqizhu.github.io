@@ -17,11 +17,9 @@ Our research primarily focuses on marine engineering geology and environmental g
 
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/ca41a646-6196-4457-aa4a-c55c76eb533b" width="128" height="128">  
-
 **[Linsen Wang](https://www.researchgate.net/profile/Linsen-Wang)** (Ph.D. 2020-) (Co-Advised with Yonggang Jia)
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/f8087d06-ee27-4be0-948b-58862365d6d0" width="128" height="170">
-  
 **Xianda Zhan** (M.S. 2024-) 
 
 ## Graduated Students
