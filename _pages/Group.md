@@ -23,8 +23,8 @@ Our research primarily focuses on marine engineering geology and environmental g
 ## Graduated Students
 <img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="128">  <br>
 **[Xiaoshuai Song](https://www.researchgate.net/profile/Xiaoshuai-Song)** (Ph.D. 2018-2022) (Co-Advised with Yonggang Jia)  <br>
-* **Thesis**: Investigation on creep process and controlling factors of typical slopes in the northern South China Sea  <br>
-* **Employment**: People's Government of Zhaoyuan
+* Thesis: Investigation on creep process and controlling factors of typical slopes in the northern South China Sea  <br>
+* Employment: People's Government of Zhaoyuan
 
 ![image](https://i1.rgstatic.net/ii/profile.image/11431281103741269-1669814357677_Q128/Zhenghui_Li10.jpg) <br>
 **[Zhenghui Li](https://www.researchgate.net/profile/Zhenghui_Li10)** (Ph.D. 2019-2023) (Co-Advised with Yonggang Jia)  <br>
