@@ -26,7 +26,7 @@ Our research primarily focuses on marine engineering geology and environmental g
 
 ## Graduated Students
 
-<img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="130">  
+<img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="128">  
 
 **[Xiaoshuai Song](https://www.researchgate.net/profile/Xiaoshuai-Song)** (Ph.D. 2018-2022) (Co-Advised with Yonggang Jia)
 * Thesis:
