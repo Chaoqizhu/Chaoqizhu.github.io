@@ -8,11 +8,3 @@ Invited by Shandong Provincial Ocean Bureau, I conducted an ocean awareness outr
 
 
  <video src='/assets/Qingdao.mp4' controls="controls" width="100%"></video>
-
-![image](https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/58462148-e867-4b03-a722-8a68bfe5c3d9)
-
-![image](https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/61ee3cdf-eb25-4bf5-82ea-ae8914a994d5)
-
-![image](https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/c4e8dcd0-730f-4a8d-862b-419157724620)
-
-![image](https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/bd0caba0-9e44-48c6-906c-95292b575354)
