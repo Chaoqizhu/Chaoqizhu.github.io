@@ -21,12 +21,12 @@ Dr. Zhu is recognized as a high-level talent in Qingdao and serves as editor-in-
 🔥 News
 ======
 ------
-* **May 31, 2024**, I join the Editorial Board of [Science Progress](https://journals.sagepub.com/home/SCI).
-* **May 17, 2024**, My Key R&D Program of Shandong Province, China Successfully Completes Review by Shandong Provincial Department of Science and Technology with Excellent Results.
-* **April 16, 2024**, PhD Students Xuezhi Feng and Linsen Wang Awarded Graduate Academic Innovation Scholarships by Ocean University of China.
-* **April 11, 2024**, Research on [Submarine Sediment Strength](https://www.sciencedirect.com/science/article/abs/pii/S0263224123016147?via%3Dihub) Published in [Measurement](https://www.sciencedirect.com/journal/measurement).
-* **April 11, 2024**, Research on [Coastal Dune Evolution in Haiyang, China](https://www.frontiersin.org/articles/10.3389/fmars.2024.1326317/full) Published in [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science).
-* **April 10, 2024**, Launch of My Academic Website!
+* **May 31, 2024**, Joined the Editorial Board of [Science Progress](https://journals.sagepub.com/home/SCI).
+* **May 17, 2024**, My Key R&D Program in Shandong Province, China, successfully completed the review by the Shandong Provincial Department of Science and Technology with excellent results.
+* **April 16, 2024**, PhD Students Xuezhi Feng and Linsen Wang were awarded Graduate Academic Innovation Scholarships by Ocean University of China.
+* **April 11, 2024**, My research on [Submarine Sediment Strength](https://www.sciencedirect.com/science/article/abs/pii/S0263224123016147?via%3Dihub) was published in [Measurement](https://www.sciencedirect.com/journal/measurement).
+* **April 11, 2024**, My research on [Coastal Dune Evolution in Haiyang, China](https://www.frontiersin.org/articles/10.3389/fmars.2024.1326317/full) was published in [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science).
+* **April 10, 2024**, Launched my academic website!
 
 [**↑ Top**](#Top)
 
