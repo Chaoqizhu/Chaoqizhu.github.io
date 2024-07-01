@@ -17,7 +17,7 @@ Our research primarily focuses on marine engineering geology and environmental g
 **[Xuezhi Feng](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (Ph.D. 2020-) (Co-Advised with Yonggang Jia)
 
 
-<img src="http://nwzimg.wezhan.cn/contents/sitefiles2051/10257176/images/25878742.jpg" width="128" height="128">  
+<img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/ca41a646-6196-4457-aa4a-c55c76eb533b" width="128" height="128">  
 
 **[Linsen Wang](https://www.researchgate.net/profile/Linsen-Wang)** (Ph.D. 2020-) (Co-Advised with Yonggang Jia)
 
