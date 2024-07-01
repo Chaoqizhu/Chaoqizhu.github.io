@@ -11,10 +11,8 @@ redirect_from:
 Our research primarily focuses on marine engineering geology and environmental geological hazards, specifically exploring the evolutionary processes and mechanisms shaping the seabed, particularly under the influence of marine environmental fluids and shallow geological fluids.
 
 ## Current Graduate Students
-
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/4cffe9c4-37a1-42f4-b50b-37c543658312" width="128" height="128"><br>
 **[Xuezhi Feng](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (Ph.D. 2020-) (Co-Advised with Yonggang Jia)
-
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/ca41a646-6196-4457-aa4a-c55c76eb533b" width="128" height="128"><br>
 **[Linsen Wang](https://www.researchgate.net/profile/Linsen-Wang)** (Ph.D. 2020-) (Co-Advised with Yonggang Jia)
@@ -23,11 +21,10 @@ Our research primarily focuses on marine engineering geology and environmental g
 **Xianda Zhan** (M.S. 2024-) 
 
 ## Graduated Students
-
 <img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="128">  <br>
-**[Xiaoshuai Song](https://www.researchgate.net/profile/Xiaoshuai-Song)** (Ph.D. 2018-2022) (Co-Advised with Yonggang Jia)
-* Thesis: Investigation on creep process and controlling factors of typical slopes in the northern South China Sea
-* Employment: People's Government of Zhaoyuan
+**[Xiaoshuai Song](https://www.researchgate.net/profile/Xiaoshuai-Song)** (Ph.D. 2018-2022) (Co-Advised with Yonggang Jia)  <br>
+Thesis: Investigation on creep process and controlling factors of typical slopes in the northern South China Sea  <br>
+Employment: People's Government of Zhaoyuan
 
 ![image](https://i1.rgstatic.net/ii/profile.image/11431281103741269-1669814357677_Q128/Zhenghui_Li10.jpg) <br>
 **[Zhenghui Li](https://www.researchgate.net/profile/Zhenghui_Li10)** (Ph.D. 2019-2023) (Co-Advised with Yonggang Jia) 
