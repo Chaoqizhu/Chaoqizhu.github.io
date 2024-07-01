@@ -35,5 +35,5 @@ Our research primarily focuses on marine engineering geology and environmental g
 ![image](https://i1.rgstatic.net/ii/profile.image/11431281103741269-1669814357677_Q128/Zhenghui_Li10.jpg) 
 
 **[Zhenghui Li](https://www.researchgate.net/profile/Zhenghui_Li10)** (Ph.D. 2019-2023) (Co-Advised with Yonggang Jia) 
-* Thesis:
+* Thesis: Triggering mechanism of submarine landslides on the northern slope of the South China Sea
 * Employment: Wuhan Center, China Geological Survey
