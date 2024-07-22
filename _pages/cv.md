@@ -60,7 +60,8 @@ redirect_from:
 * **Editorial Board Member**, [Thalassas: An International Journal of Marine Sciences](https://link.springer.com/journal/41208)
 * **Editorial Board Member**, [Geoenvironmental Disasters](https://geoenvironmental-disasters.springeropen.com/)
 * **Youth Editorial Board Member**, [China Geology](https://www.sciencedirect.com/journal/china-geology)
-* **Guest Editor**, [Energy Reports](https://www.sciencedirect.com/journal/energy-reports/special-issue/10LNPQPBFC5) 
+* **Guest Editor**, [Energy Reports](https://www.sciencedirect.com/journal/energy-reports/special-issue/10LNPQPBFC5)
+* **Guest Editor**, [Journal of Marine Science and Engineering ](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors)
 * **Guest Editor**, [Water](https://www.mdpi.com/journal/water/special_issues/sediment_dynamics) 
 * **Guest Editor**, [Environmental Geotechnics](https://www.icevirtuallibrary.com/toc/jenge/10/3) 
 
