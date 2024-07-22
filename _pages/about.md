@@ -21,6 +21,7 @@ Dr. Zhu is recognized as a high-level talent in Qingdao and serves as editor-in-
 🔥 News
 ======
 ------
+* **July 22, 2024**, Welcome submissions to the Special Issue [Marine Geohazards: Characterization to Prediction](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors), organized by myself and Professors[ Kiichiro Kawamura](https://ds0n.cc.yamaguchi-u.ac.jp/~kawaken/index.html) and [Qiliang Sun](https://grzy.cug.edu.cn/sunqiliang/zh_CN/index.htm).
 * **May 31, 2024**, Joined the Editorial Board of [Science Progress](https://journals.sagepub.com/home/SCI).
 * **May 17, 2024**, My Key R&D Program in Shandong Province, China, successfully completed the review by the Shandong Provincial Department of Science and Technology with excellent results.
 * **April 16, 2024**, PhD Students Xuezhi Feng and Linsen Wang were awarded Graduate Academic Innovation Scholarships by Ocean University of China.
