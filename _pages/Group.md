@@ -12,13 +12,16 @@ Our research primarily focuses on marine engineering geology and environmental g
 
 ## Current Students
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/4cffe9c4-37a1-42f4-b50b-37c543658312" width="128" height="128"><br>
-**[Xuezhi Feng](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (Ph.D. 2020-) (Co-Advised with Yonggang Jia)
+**[Xuezhi Feng](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (PhD student 2020-) (Co-Advised with Yonggang Jia)
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/ca41a646-6196-4457-aa4a-c55c76eb533b" width="128" height="128"><br>
-**[Linsen Wang](https://www.researchgate.net/profile/Linsen-Wang)** (Ph.D. 2020-) (Co-Advised with Yonggang Jia)
+**[Linsen Wang](https://www.researchgate.net/profile/Linsen-Wang)** (PhD student 2020-) (Co-Advised with Yonggang Jia)
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/f8087d06-ee27-4be0-948b-58862365d6d0" width="128" height="170"><br>
-**Xianda Zhan** (M.S. 2024-) 
+**Xianda Zhan** (Master's student 2024-) 
+
+![8384008be4dd81dae3def90f62182e7](https://github.com/user-attachments/assets/3d6f706a-da47-4cf2-b9e7-55229cd50e39)
+**Jinteng Wen** (Undergraduate student 2023-) 
 
 ## Graduated Students
 <img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="128">  <br>
