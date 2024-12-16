@@ -20,6 +20,7 @@ Our research primarily focuses on marine engineering geology and environmental g
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/f8087d06-ee27-4be0-948b-58862365d6d0" width="128" height="170"><br>
 **Xianda Zhan** (Master's student 2024-) 
 
+<img src="[https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg](https://github.com/user-attachments/assets/3d6f706a-da47-4cf2-b9e7-55229cd50e39)" width="128" height="128">  <br>
 ![8384008be4dd81dae3def90f62182e7](https://github.com/user-attachments/assets/3d6f706a-da47-4cf2-b9e7-55229cd50e39) width="128" height="170"><br>
 **Jinteng Wen** (Undergraduate student 2023-) 
 
