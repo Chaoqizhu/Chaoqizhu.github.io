@@ -9,8 +9,8 @@ main:
   - title: "奖励"
     url: /奖励/
 
-  - title: "Group"
-    url: /Group/
+  - title: "课题组"
+    url: /课题组/
   
   - title: "Portfolio"
     url: /portfolio/
