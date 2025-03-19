@@ -13,7 +13,7 @@ redirect_from:
 ======
 ------
 * **2025年03月19日**, 欢迎投稿Journal of Marine Science and Engineering海洋地质灾害专刊[Marine Geohazards: Characterization to Prediction](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors), Kiichiro Kawamura教授、孙启良教授与我一起召集，2025年06月10日截止.
-* **2025年03月19日**, 我的个人网站试运行!
+* **2025年03月19日**, 我的个人网站试运行.
 
 [**↑ Top**](#Top)
 
