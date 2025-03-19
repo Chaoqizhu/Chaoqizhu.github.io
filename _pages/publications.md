@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "📝"
+title: "论著"
 permalink: /论著/
 author_profile: true
 ---
