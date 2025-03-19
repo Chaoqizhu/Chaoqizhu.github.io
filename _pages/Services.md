@@ -17,11 +17,12 @@ redirect_from:
 * **编委**, [Thalassas: An International Journal of Marine Sciences](https://link.springer.com/journal/41208)
 * **编委**, [Geoenvironmental Disasters](https://geoenvironmental-disasters.springeropen.com/)
 * **青年编委**, [China Geology](https://www.sciencedirect.com/journal/china-geology)
+* **青年编委**, [Geosystems and Geoenvironment](https://www.sciencedirect.com/journal/geosystems-and-geoenvironment)
 * **客座编委**, [Energy Reports](https://www.sciencedirect.com/journal/energy-reports/special-issue/10LNPQPBFC5)
 * **客座编委**, [Journal of Marine Science and Engineering ](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors)
 * **客座编委**, [Water](https://www.mdpi.com/journal/water/special_issues/sediment_dynamics) 
 * **客座编委**, [Environmental Geotechnics](https://www.icevirtuallibrary.com/toc/jenge/10/3)
-* **审稿人**, [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291), [Geomorphology](https://www.sciencedirect.com/journal/geomorphology), [Applied Ocean Research](https://www.sciencedirect.com/journal/applied-ocean-research), [Bulletin of Engineering Geology and the Environment](https://link.springer.com/journal/10064), [Indian Journal of Geo-Marine Sciences](https://or.niscpr.res.in/index.php/IJMS), [International journal of GEOMATE](https://geomatejournal.com/geomate), [Marine Georesources & Geotechnology](https://www.tandfonline.com/journals/umgt20), [Polish Journal of Environmental Studies](http://www.pjoes.com/), [Frontiers in Energy](https://link.springer.com/journal/11708),[《工程地质学报》](http://www.gcdz.org/),  etc.
+* **审稿人**, [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291), [Geomorphology](https://www.sciencedirect.com/journal/geomorphology), [Applied Ocean Research](https://www.sciencedirect.com/journal/applied-ocean-research), [Bulletin of Engineering Geology and the Environment](https://link.springer.com/journal/10064), [Indian Journal of Geo-Marine Sciences](https://or.niscpr.res.in/index.php/IJMS), [International journal of GEOMATE](https://geomatejournal.com/geomate), [Marine Georesources & Geotechnology](https://www.tandfonline.com/journals/umgt20), [Polish Journal of Environmental Studies](http://www.pjoes.com/), [Frontiers in Energy](https://link.springer.com/journal/11708),[《工程地质学报》](http://www.gcdz.org/), [《海洋地质与第四纪地质》](海洋地质与第四纪地质),[《海洋地质前言》](海洋地质前言),etc.
 
 会议
 ======
