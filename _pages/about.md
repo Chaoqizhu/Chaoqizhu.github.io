@@ -13,7 +13,7 @@ redirect_from:
 新闻
 ======
 ------
-* **2025年02月09日**, 朱超祁在[南海重大地质灾害研究前沿高端研讨会]([https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors](https://news.ouc.edu.cn/2025/0218/c550a118649/page.htm))作特邀报告🔥.
+* **2025年02月09日**, 朱超祁在[南海重大地质灾害研究前沿高端研讨会](https://news.ouc.edu.cn/2025/0218/c550a118649/page.htm)作《南海北部海床流体迁移致灾机理重大科学考察实验研究》特邀报告🔥.
 * **2025年01月01日**, 欢迎投稿Journal of Marine Science and Engineering海洋地质灾害专刊[Marine Geohazards: Characterization to Prediction](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors), Kiichiro Kawamura教授、孙启良教授与我一起召集，2025年06月10日截止.
 * **2025年01月01日**, 我的个人网站试运行.
 
