@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ------
-朱超祁，中国海洋大学副教授，**EI期刊Journal of Marine Environmental Engineering主编），入选中国科协“青年人才托举工程”、青岛市高层次人才、山东省高校青年创新团队负责人**。围绕海洋工程地质与环境地质灾害开展研究工作，重点关注海洋环境流体与海底浅层地质流体协同作用下的海底演化过程与机理。主持国家自然科学基金、山东省重点研发计划、山东省自然科学基金等多项国家级与省部级研究项目。在Engineering Geology、Applied Ocean Research等期刊发表论文数十篇，其中3项第一作者研究成果分别获得Geology Today、AGU会刊EOS专题报道。担任EI期刊JMEE主编及多个SCI期刊副主编/编委，获评《海洋地质与第四纪地质》创刊40周年新锐作者奖。联合申请美国、日本、欧盟、中国发明专利等知识产权数十项，获得教育部技术发明一等奖、海南省技术发明一等奖、山东省专利奖一等奖、海南省科技进步二等奖、山东省技术发明奖二等奖、山东省海洋科技创新奖一等奖等科技奖励十余项，成果入选山东省十大优秀地质成果奖、中国十大地质科技进展。
+朱超祁，中国海洋大学副教授，**担任EI期刊 [Journal of Marine Environmental Engineering](https://www.oldcitypublishing.com/journals/jmee-home/)主编、山东省高校青年创新团队负责人，入选中国科协“青年人才托举工程”、青岛市高层次人才**。围绕海洋工程地质与环境地质灾害开展研究工作，重点关注海洋环境流体与海底浅层地质流体协同作用下的海底演化过程与机理。主持国家自然科学基金、山东省重点研发计划、山东省自然科学基金等多项国家级与省部级研究项目。在Engineering Geology、Applied Ocean Research等期刊发表论文数十篇，其中3项第一作者研究成果分别获得Geology Today、AGU会刊EOS专题报道。担任EI期刊JMEE主编及多个SCI期刊副主编/编委，获评《海洋地质与第四纪地质》创刊40周年新锐作者奖。联合申请美国、日本、欧盟、中国发明专利等知识产权数十项，获得教育部技术发明一等奖、海南省技术发明一等奖、山东省专利奖一等奖、海南省科技进步二等奖、山东省技术发明奖二等奖、山东省海洋科技创新奖一等奖等科技奖励十余项，成果入选山东省十大优秀地质成果奖、中国十大地质科技进展。
 
 
 Dr. Chaoqi Zhu, an Associate Professor at Ocean University of China (OUC), currently serves as the Editor-in-Chief of the [Journal of Marine Environmental Engineering (JMEE)](https://www.oldcitypublishing.com/journals/jmee-home/). He obtained his BSc. and Ph.D. degrees from Shandong University and Ocean University of China, respectively. Dr. Zhu's research primarily focuses on marine engineering geology and environmental geological hazards, specifically exploring the evolutionary processes and mechanisms shaping the seabed, particularly under the influence of marine environmental fluids and shallow geological fluids.
