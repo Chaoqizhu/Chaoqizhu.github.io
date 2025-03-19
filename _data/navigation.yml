@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "论著"
-    url: /论著/
-
   - title: "任职"
-    url: /任职/  
+    url: /任职/
+
+  - title: "论著"
+    url: /论著/  
   
   - title: "奖励"
     url: /奖励/
