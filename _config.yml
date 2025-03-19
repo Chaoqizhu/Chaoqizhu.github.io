@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chaoqi Zhu/Homepage"
+title                    : "主页"
 title_separator          : "-"
-name                     : &name "Chaoqi Zhu"
+name                     : &name "朱超祁"
 description              : &description "Seafloor Evolution under Fluids: Processes & Mechanisms"
 url                      : https://chaoqizhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Chaoqi zhu profile.jpg"
-  name             : "Chaoqi Zhu"
-  pronouns         : Editor-in-Chief of JMEE   # example: "she/her"  
-  bio              : "SEA-Fluids 
+  name             : "朱超祁"
+  pronouns         : 中国海洋大学   # example: "she/her"  
+  bio              : "SEA-Fluids课题组 
   <br/><font color='red'>S</font>eabed <font color='red'>E</font>volution <font color='red'>A</font>ffected by <font color='red'>Fluids</font>"
-  location         :  "Qingdao"
-  employer         : "Ocean University of China"
+  location         :  "青岛"
+  employer         : "中国海洋大学"
   uri              : # URL
   email            :  "zhuchaoqi@ouc.edu.cn" 
 
