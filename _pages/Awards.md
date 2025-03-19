@@ -1,5 +1,5 @@
 ---
-permalink: /Awards/
+permalink: /奖励/
 title: "Awards and Recognition"
 author_profile: true
 redirect_from: 
