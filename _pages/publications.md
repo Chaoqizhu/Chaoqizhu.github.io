@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "📝 Publications"
-permalink: /publications/
+title: "📝"
+permalink: /论著/
 author_profile: true
 ---
 
-## Full list of papers on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>
+## 论著清单详见谷歌学术 <a href="{{site.author.googlescholar}}">Google Scholar profile</a>
 
-## Selected Publications
+## 近期代表性论著
 
 {% include base_path %}
 
