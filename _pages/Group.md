@@ -20,13 +20,13 @@ redirect_from:
 **詹贤达** (硕士生 2024-) 
 
 ![文金腾_副本](https://github.com/user-attachments/assets/2526b610-4639-4d6a-a83c-d177f899bda5)<br>
-**Jinteng Wen** (Undergraduate student 2023-) 
+**文金腾** (本科生 2023-) 
 
 ![李乐晨_副本](https://github.com/user-attachments/assets/5ca8f462-e4b9-49c5-aa45-038391827b31)<br>
-**Lechen Li** (Undergraduate student 2023-) 
+**李乐晨** (本科生 2023-) 
 
 ![陈冠润_副本](https://github.com/user-attachments/assets/bd2e8cd9-9b4a-4311-be2a-22508084968b)<br>
-**Guanrun Chen** (Undergraduate student 2023-) 
+**陈冠润** (本科生 2023-) 
 
 ## 毕业学生
 <img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="128">  <br>
