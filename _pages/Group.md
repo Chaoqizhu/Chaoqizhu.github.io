@@ -31,10 +31,10 @@ redirect_from:
 ## 毕业学生
 <img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="128">  <br>
 **[宋晓帅](https://www.researchgate.net/profile/Xiaoshuai-Song)** (博士 2018-2022) (与贾永刚教授共同指导)  <br>
-* Thesis: Investigation on creep process and controlling factors of typical slopes in the northern South China Sea  <br>
+* 学位论文: 南海北部蠕变区海底变形过程及控制因素研究  <br>
 * 毕业去向: 招远市人民政府
 
 ![image](https://i1.rgstatic.net/ii/profile.image/11431281103741269-1669814357677_Q128/Zhenghui_Li10.jpg) <br>
 **[李正辉](https://www.researchgate.net/profile/Zhenghui_Li10)** (博士 2019-2023) (与贾永刚教授共同指导)  <br>
-* Thesis: Triggering mechanism of submarine landslides on the northern slope of the South China Sea  <br>
+* 学位论文: 南海北部陆坡海底滑坡触发机制研究  <br>
 * 毕业去向: 中国地质调查局武汉地调中心
