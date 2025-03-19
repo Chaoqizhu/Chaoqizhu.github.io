@@ -1,6 +1,6 @@
 ---
-permalink: /Group/
-title: "SEA-Fluids Group"
+permalink: /课题组/
+title: "SEA-Fluids 课题组"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 ## **<font color='red'>S</font>**eabed **<font color='red'>E</font>**volution **<font color='red'>A</font>**ffected by **<font color='red'>Fluids</font>** (SEA-Fluids)
-Our research primarily focuses on marine engineering geology and environmental geological hazards, specifically exploring the evolutionary processes and mechanisms shaping the seabed, particularly under the influence of marine environmental fluids and shallow geological fluids.
+围绕海洋工程地质与环境地质灾害开展研究工作，重点关注海底浅层地质流体与海洋动力过程协同作用下的海底演化规律与机理.
 
-## Current Students
+## 在读学生
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/4cffe9c4-37a1-42f4-b50b-37c543658312" width="128" height="128"><br>
-**[Xuezhi Feng](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (PhD student 2020-) (Co-Advised with Yonggang Jia)
+**[冯学志](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (博士生 2020-) (与贾永刚教授共同指导)
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/ca41a646-6196-4457-aa4a-c55c76eb533b" width="128" height="128"><br>
-**[Linsen Wang](https://www.researchgate.net/profile/Linsen-Wang)** (PhD student 2020-) (Co-Advised with Yonggang Jia)
+**[王林森](https://www.researchgate.net/profile/Linsen-Wang)** (博士生 2020-) (与贾永刚教授共同指导)
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/f8087d06-ee27-4be0-948b-58862365d6d0" width="128" height="170"><br>
-**Xianda Zhan** (Master's student 2024-) 
+**詹贤达** (硕士生 2024-) 
 
 ![文金腾_副本](https://github.com/user-attachments/assets/2526b610-4639-4d6a-a83c-d177f899bda5)<br>
 **Jinteng Wen** (Undergraduate student 2023-) 
@@ -29,13 +29,13 @@ Our research primarily focuses on marine engineering geology and environmental g
 ![陈冠润_副本](https://github.com/user-attachments/assets/bd2e8cd9-9b4a-4311-be2a-22508084968b)<br>
 **Guanrun Chen** (Undergraduate student 2023-) 
 
-## Graduated Students
+## 毕业学生
 <img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="128">  <br>
-**[Xiaoshuai Song](https://www.researchgate.net/profile/Xiaoshuai-Song)** (Ph.D. 2018-2022) (Co-Advised with Yonggang Jia)  <br>
+**[宋晓帅](https://www.researchgate.net/profile/Xiaoshuai-Song)** (博士 2018-2022) (与贾永刚教授共同指导)  <br>
 * Thesis: Investigation on creep process and controlling factors of typical slopes in the northern South China Sea  <br>
-* Employment: People's Government of Zhaoyuan
+* 毕业去向: 招远市人民政府
 
 ![image](https://i1.rgstatic.net/ii/profile.image/11431281103741269-1669814357677_Q128/Zhenghui_Li10.jpg) <br>
-**[Zhenghui Li](https://www.researchgate.net/profile/Zhenghui_Li10)** (Ph.D. 2019-2023) (Co-Advised with Yonggang Jia)  <br>
+**[李正辉](https://www.researchgate.net/profile/Zhenghui_Li10)** (博士 2019-2023) (与贾永刚教授共同指导)  <br>
 * Thesis: Triggering mechanism of submarine landslides on the northern slope of the South China Sea  <br>
-* Employment: Wuhan Center, China Geological Survey
+* 毕业去向: 中国地质调查局武汉地调中心
