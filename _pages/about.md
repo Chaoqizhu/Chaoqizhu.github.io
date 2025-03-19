@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "简介"
+title: "我在这里，等待与你在海洋中相遇"
 author_profile: true
 redirect_from: 
   - /about/
