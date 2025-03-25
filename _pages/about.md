@@ -13,11 +13,13 @@ redirect_from:
 课题组新闻
 ======
 ------
-* **2025年02月09日**, 朱超祁在[南海重大地质灾害研究前沿高端研讨会](https://news.ouc.edu.cn/2025/0218/c550a118649/page.htm)作《南海北部海床流体迁移致灾机理重大科学考察实验研究》特邀报告🔥。
-* **2024年12月19日**，朱超祁领衔团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项。
+* **2025年02月09日**, 朱超祁副教授在[南海重大地质灾害研究前沿高端研讨会](https://news.ouc.edu.cn/2025/0218/c550a118649/page.htm)作《南海北部海床流体迁移致灾机理重大科学考察实验研究》特邀报告🔥。
+* **2024年12月19日**，朱超祁副教授领衔团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项。
 * **2024年12月27日**，本科生文金腾获得中国海洋大学本科生研究发展计划（OUC-SRDP）立项。
-* **2024年10月05日**，贾永刚教授担任首席，朱超祁担任首席助理的国家自然科学基金南海重大科考航次启航！![image](https://github.com/user-attachments/assets/75b82e4d-2c21-478f-a133-86cac7ac18bc)---
-* **2024年09月01日**, 欢迎投稿Journal of Marine Science and Engineering海洋地质灾害专刊[Marine Geohazards: Characterization to Prediction](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors), 朱超祁与Kiichiro Kawamura教授、孙启良教授共同召集，2025年06月10日截止。
+* **2024年11月15日**，《中国报道》刊发国家自然科学基金南海重大科考航次专栏，对朱超祁副教授进行采访。
+* **2024年10月18日**，硕士生詹贤达在东方红海坛作《海洋沉积物洗筛与沉降实验研究》演讲报告。
+* **2024年10月05日**，贾永刚教授担任首席科学家，朱超祁副教授担任首席助理的国家自然科学基金南海重大科考航次启航！
+* **2024年09月01日**, 欢迎投稿Journal of Marine Science and Engineering海洋地质灾害专刊[Marine Geohazards: Characterization to Prediction](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors), 朱超祁副教授与Kiichiro Kawamura教授、孙启良教授共同召集，2025年06月10日截止。
 * **2024年09月01日**, 个人网站试运行.
 
 [**↑ Top**](#Top)
