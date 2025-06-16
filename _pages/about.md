@@ -13,6 +13,7 @@ redirect_from:
 课题组新闻
 ======
 ------
+* **2025年05月28日**, 硕士生张正荣在Journal of Marine Science and Engineering发表SCI论文. 🔥
 * **2025年05月12日**, 朱超祁在第十届青年地学论坛作《南海神狐陆架坡折带气体羽状流的发现及其海洋动力调控机制》学术报告. 🔥
 * **2025年05月11日**, 朱超祁在2025年全国地质灾害与防治学术交流会作《南海神狐陆架坡折带海底甲烷释放及影响因素》学术报告. 🔥
 * **2025年03月09日**, 博士生冯学志在《中国科学：地球科学》第55卷第3期发表研究论文[《南海北部神狐陆架坡折区内孤立波引起海底风暴》](https://www.sciengine.com/SSTe/doi/10.1360/SSTe-2024-0052). 🔥
@@ -27,6 +28,6 @@ redirect_from:
 
 [**↑ Top**](#Top)
 
-更新: 2025年05月12日
+更新: 2025年05月28日
 
 <a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>
