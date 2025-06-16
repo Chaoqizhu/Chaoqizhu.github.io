@@ -13,6 +13,8 @@ redirect_from:
 课题组新闻
 ======
 ------
+* **2025年05月12日**, 朱超祁在第十届青年地学论坛作《南海神狐陆架坡折带气体羽状流的发现及其海洋动力调控机制》学术报告. 🔥
+* **2025年05月11日**, 朱超祁在2025年全国地质灾害与防治学术交流会作《南海神狐陆架坡折带海底甲烷释放及影响因素》学术报告. 🔥
 * **2025年03月09日**, 博士生冯学志在《中国科学：地球科学》第55卷第3期发表研究论文[《南海北部神狐陆架坡折区内孤立波引起海底风暴》](https://www.sciengine.com/SSTe/doi/10.1360/SSTe-2024-0052). 🔥
 * **2025年02月09日**, 朱超祁副教授在[南海重大地质灾害研究前沿高端研讨会](https://news.ouc.edu.cn/2025/0218/c550a118649/page.htm)作《南海北部海床流体迁移致灾机理重大科学考察实验研究》特邀报告. 🔥
 * **2024年12月19日**，朱超祁副教授领衔团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项.
@@ -25,6 +27,6 @@ redirect_from:
 
 [**↑ Top**](#Top)
 
-更新: 2025年03月19日
+更新: 2025年05月12日
 
 <a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>
