@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎访问"
+title: "朱超祁"
 author_profile: true
 redirect_from: 
   - /about/
