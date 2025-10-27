@@ -10,11 +10,7 @@ redirect_from:
 围绕海洋工程地质与环境地质灾害开展研究工作，重点关注海底浅层地质流体与海洋动力过程协同作用下的海底演化规律与机理.
 
 ## 在读学生
-<img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/4cffe9c4-37a1-42f4-b50b-37c543658312" width="128" height="128"><br>
-**[冯学志](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (博士生 2020-) (与贾永刚教授共同指导)
 
-<img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/ca41a646-6196-4457-aa4a-c55c76eb533b" width="128" height="128"><br>
-**[王林森](https://www.researchgate.net/profile/Linsen-Wang)** (博士生 2020-) (与贾永刚教授共同指导)
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/f8087d06-ee27-4be0-948b-58862365d6d0" width="128" height="170"><br>
 **詹贤达** (硕士生 2024-) 
@@ -29,6 +25,16 @@ redirect_from:
 **陈冠润** (本科生 2023-) 
 
 ## 毕业学生
+<img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/4cffe9c4-37a1-42f4-b50b-37c543658312" width="128" height="128"><br>
+**[冯学志](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (博士生 2020-) (与贾永刚教授共同指导)
+* 学位论文: 南海神狐海域内孤立波对海底作用过程研究  <br>
+* 毕业去向: 山东生态环境学院
+
+<img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/ca41a646-6196-4457-aa4a-c55c76eb533b" width="128" height="128"><br>
+**[王林森](https://www.researchgate.net/profile/Linsen-Wang)** (博士生 2020-) (与贾永刚教授共同指导)
+* 学位论文: 自由下落式触探技术（FFCPT）确定海底沉积物强度与类型研究  <br>
+* 毕业去向: 中建八局
+  
 <img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="128">  <br>
 **[宋晓帅](https://www.researchgate.net/profile/Xiaoshuai-Song)** (博士 2018-2022) (与贾永刚教授共同指导)  <br>
 * 学位论文: 南海北部蠕变区海底变形过程及控制因素研究  <br>
