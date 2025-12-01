@@ -13,8 +13,10 @@ redirect_from:
 课题组新闻
 ======
 ------
+* **2025年11月29日**, 中国科学院海洋研究所陈子飞老师来校交流，并作报告Observations of the generation and propagation of near-inertial waves.
+* **2025年11月18日**, 博士毕业生李正辉国家发明专利《一种模拟快速沉积作用触发海底滑坡的试验装置及方法》获得授权.
 * **2025年11月04日**, 博士毕业生李正辉在International Journal of Mining Science and Technology（IF 13.7，中科院1区TOP）发表Potential failure mechanism of low–angle submarine landslides in shelf–slope break of Pearl River Mouth Basin, South China Sea.🔥
-* **2025年11月01日**, 硕士生詹贤达获得中国银行研究生学术之星奖学金（5000元）. 🔥
+* **2025年11月01日**, 硕士生詹贤达获得中国银行研究生学术之星奖学金. 🔥
 * **2025年10月10日**, 硕士生詹贤达在第十二届南海年会作演讲报告《台风“奥鹿”影响下南海北部神狐陆架坡折区的海底风暴形成过程与机制》.
 * **2025年09月26日**, 山东省海洋局公布2025年度海洋科技创新奖，合作成果《黄河三角洲滨海湿地生态安全保障机制及对策研究》获二等奖.
 * **2025年09月10日**, 合作论文Fluorescence characteristics of dissolved organic matter and its association with the nepheloid layer in the northern South China Sea在Oceanologia（中科院2区）发表.
@@ -37,6 +39,6 @@ redirect_from:
 
 [**↑ Top**](#Top)
 
-更新: 2025年11月10日
+更新: 2025年12月01日
 
 <a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>
