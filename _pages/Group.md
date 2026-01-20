@@ -10,15 +10,23 @@ redirect_from:
 围绕海洋工程地质与环境地质灾害开展研究工作，重点关注海底浅层地质流体与海洋动力过程协同作用下的海底演化规律与机理.
 
 ## 在读学生
+<img src='/images/吴净轩.png'>
 **吴净轩** (硕士生 2025-) 
 
+<img src='/images/吕文睿.png'>
 **吕文睿** (硕士生 2025-) 
 
+<img src='/images/徐冲.png'>
 **徐冲** (硕士生 2025-) 
 
+<img src='/images/刘倍宽.png'>
 **刘倍宽** (硕士生 2025-) 
 
+<img src='/images/郑可威.jpg'>
 **郑可威** (硕士生 2025-) 
+
+<img src='/images/詹贤达.jpg'>
+**詹贤达** (硕士生 2024-) 
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/f8087d06-ee27-4be0-948b-58862365d6d0" width="128" height="170"><br>
 **詹贤达** (硕士生 2024-) 
