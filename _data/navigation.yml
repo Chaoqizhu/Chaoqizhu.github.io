@@ -5,9 +5,6 @@ main:
 
   - title: "兼职"
     url: /任职/  
-  
-  - title: "奖励"
-    url: /奖励/
 
   - title: "团队"
     url: /团队/
