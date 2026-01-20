@@ -39,12 +39,12 @@ redirect_from:
 * 学位论文: 自由下落式触探技术（FFCPT）确定海底沉积物强度与类型研究  <br>
 * 毕业去向: 中建八局
   
-<img src="https://i1.rgstatic.net/ii/profile.image/864276776497152-1583071049061_Q512/Xiaoshuai-Song.jpg" width="128" height="128">  <br>
-**[宋晓帅](https://www.researchgate.net/profile/Xiaoshuai-Song)** (博士 2018-2022) (与贾永刚教授共同指导)  <br>
-* 学位论文: 南海北部蠕变区海底变形过程及控制因素研究  <br>
-* 毕业去向: 招远市人民政府
-
-![image](https://i1.rgstatic.net/ii/profile.image/11431281103741269-1669814357677_Q128/Zhenghui_Li10.jpg) <br>
+<img src='/images/李正辉.jpg' width="128" height="170"><br>
 **[李正辉](https://www.researchgate.net/profile/Zhenghui_Li10)** (博士 2019-2023) (与贾永刚教授共同指导)  <br>
 * 学位论文: 南海北部陆坡海底滑坡触发机制研究  <br>
 * 毕业去向: 中国地质调查局武汉地调中心
+
+<img src='/images/宋晓帅.jpg' width="128" height="170"><br>
+**[宋晓帅](https://www.researchgate.net/profile/Xiaoshuai-Song)** (博士 2018-2022) (与贾永刚教授共同指导)  <br>
+* 学位论文: 南海北部蠕变区海底变形过程及控制因素研究  <br>
+* 毕业去向: 招远市人民政府
