@@ -13,19 +13,19 @@ redirect_from:
 <img src='/images/吴净轩.png' width="128" height="170"><br>
 **吴净轩** (硕士生 2025-) 
 
-<img src='/images/吕文睿.png'><br>
+<img src='/images/吕文睿.png' width="128" height="170"><br>
 **吕文睿** (硕士生 2025-) 
 
-<img src='/images/徐冲.png'><br>
+<img src='/images/徐冲.png' width="128" height="170"><br>
 **徐冲** (硕士生 2025-) 
 
-<img src='/images/刘倍宽.png'><br>
+<img src='/images/刘倍宽.png' width="128" height="170"><br>
 **刘倍宽** (硕士生 2025-) 
 
-<img src='/images/郑可威.jpg'><br>
+<img src='/images/郑可威.jpg' width="128" height="170"><br>
 **郑可威** (硕士生 2025-) 
 
-<img src='/images/詹贤达.jpg'><br>
+<img src='/images/詹贤达.jpg' width="128" height="170"><br>
 **詹贤达** (硕士生 2024-) 
 
 <img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/f8087d06-ee27-4be0-948b-58862365d6d0" width="128" height="170"><br>
