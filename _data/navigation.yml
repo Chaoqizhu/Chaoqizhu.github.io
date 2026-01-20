@@ -2,9 +2,6 @@
 main:
   - title: "团队"
     url: /团队/
-  
-  - title: "影像"
-    url: /影像/
         
-  - title: "博客"
+  - title: "足记"
     url: /year-archive/
