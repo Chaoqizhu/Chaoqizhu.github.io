@@ -28,18 +28,6 @@ redirect_from:
 <img src='/images/詹贤达.jpg' width="128" height="170"><br>
 **詹贤达** (硕士生 2024-) 
 
-<img src="https://github.com/Chaoqizhu/Chaoqizhu.github.io/assets/58731405/f8087d06-ee27-4be0-948b-58862365d6d0" width="128" height="170"><br>
-**詹贤达** (硕士生 2024-) 
-
-![文金腾_副本](https://github.com/user-attachments/assets/2526b610-4639-4d6a-a83c-d177f899bda5)<br>
-**文金腾** (本科生 2023-) 
-
-![李乐晨_副本](https://github.com/user-attachments/assets/5ca8f462-e4b9-49c5-aa45-038391827b31)<br>
-**李乐晨** (本科生 2023-) 
-
-![陈冠润_副本](https://github.com/user-attachments/assets/bd2e8cd9-9b4a-4311-be2a-22508084968b)<br>
-**陈冠润** (本科生 2023-) 
-
 ## 毕业学生
 <img src='/images/冯学志.jpg' width="128" height="170"><br>
 **[冯学志](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (博士生 2020-2025) (与贾永刚教授共同指导)
