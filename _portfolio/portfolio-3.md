@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "朱超祁受山东省海洋局邀请到济南市龙鼎实验学校开展科普活动"
+excerpt: "2023年6月9日，“我们的海洋”科普课堂走进济南市历下区龙鼎实验学校，大众网等跟踪报道. number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
