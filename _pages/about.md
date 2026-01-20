@@ -12,6 +12,7 @@ redirect_from:
 课题组新闻
 ======
 ------
+* **2025年12月14日**, Journal of Marine Environmental Engineering第12卷第3期刊发山东省海洋工程地质与环境重点实验室专刊。
 * **2025年12月14日**, 自然资源部第一海洋研究所朋友来校交流，并作报告Seafloor sediments acoustic inversion。
 * **2025年11月29日**, 彭建兵院士、贾永刚教授合著专著《琼东南盆地海底地质灾害与风险防控研究》在科学出版社出版，李家彪院士、谢玉洪院士作序。朱超祁副教授参编、统稿，团队硕士生詹贤达等校稿。
 * **2025年11月29日**, 中国科学院海洋研究所朋友来校交流，并作报告Observations of the generation and propagation of near-inertial waves.
@@ -40,6 +41,6 @@ redirect_from:
 
 [**↑ Top**](#Top)
 
-更新: 2025年12月01日
+更新: 2026年01月20日
 
 <a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>
