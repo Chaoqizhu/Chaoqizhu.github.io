@@ -19,7 +19,7 @@ redirect_from:
 <img src='/images/徐冲.png' width="128" height="170"><br>
 **徐冲** (硕士生 2025-) 
 
-<img src='/images/刘倍宽.png' width="128" height="170"><br>
+<img src='/images/刘倍宽.jpg' width="128" height="170"><br>
 **刘倍宽** (硕士生 2025-) 
 
 <img src='/images/郑可威.jpg' width="128" height="170"><br>
