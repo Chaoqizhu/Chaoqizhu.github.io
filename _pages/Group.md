@@ -1,5 +1,5 @@
 ---
-permalink: /group/
+permalink: /团队/
 title: "SEA-Fluids 课题组"
 author_profile: true
 redirect_from: 
