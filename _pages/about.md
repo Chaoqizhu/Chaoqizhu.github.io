@@ -13,7 +13,7 @@ redirect_from:
 ======
 ------
 * **2025年12月14日**, Journal of Marine Environmental Engineering第12卷第3期刊发山东省海洋工程地质与环境重点实验室专刊。
-* **2025年12月14日**, 自然资源部第一海洋研究所朋友来校交流，并作报告Seafloor sediments acoustic inversion。
+* **2025年12月14日**, [自然资源部第一海洋研究所朋友来校交流，并作报告Seafloor sediments acoustic inversion](https://zhuchaoqi.cn/posts/2025/08/blog-post-2/)。
 * **2025年11月29日**, 彭建兵院士、贾永刚教授合著专著《琼东南盆地海底地质灾害与风险防控研究》在科学出版社出版，李家彪院士、谢玉洪院士作序。朱超祁副教授参编、统稿，团队硕士生詹贤达等校稿。
 * **2025年11月29日**, 中国科学院海洋研究所朋友来校交流，并作报告Observations of the generation and propagation of near-inertial waves.
 * **2025年11月18日**, 博士毕业生李正辉国家发明专利《一种模拟快速沉积作用触发海底滑坡的试验装置及方法》获得授权.
