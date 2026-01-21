@@ -8,6 +8,12 @@ redirect_from:
 ---
 ------
 中国海洋大学副教授，**EI期刊JMEE主编、山东省泰山学者青年专家、山东省高校青年创新团队负责人，入选中国科协“青年人才托举工程”、青岛市高层次人才**。围绕海洋工程地质与环境地质开展研究工作，主持国家自然科学基金、山东省重点研发计划、山东省自然科学基金，担任多个SCI/EI期刊主编/副主编/编委，在《中国科学-地球科学》、Engineering Geology等期刊发表论文60余篇，其中3项一作论文分别获得Geology Today、AGU会刊EOS专题报道。联合申请美国、日本、欧盟、中国发明专利等知识产权近40项，获得山东省海洋科技创新奖一等奖(R1)、海南省技术发明一等奖(R3)、海南省科技进步二等奖(R2)、教育部技术发明一等奖(R6)、山东省技术发明奖二等奖(R6)等科技奖励十余项，成果入选山东省十大优秀地质成果奖(R1)、中国十大地质科技进展(R6)。
+<style>
+  .page-content p {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+</style>
 
 课题组新闻
 ======
@@ -49,7 +55,12 @@ redirect_from:
 * **2024年09月01日**, 欢迎投稿Journal of Marine Science and Engineering海洋地质灾害专刊[Marine Geohazards: Characterization to Prediction](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors), 朱超祁与Kiichiro Kawamura教授、孙启良教授共同召集，2025年06月10日截止。
 * **2024年07月20日**, [硕士生詹贤达参加“河口海岸野外研究方法”暑期学校](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ)。
 * **2024年07月01日**, 初步建立课题组网站.
-
+<style>
+  .page-content p {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+</style>
 [**↑ Top**](#Top)
 
 更新: 2026年01月21日
