@@ -40,4 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
+/* 或者针对所有段落 */
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
