@@ -17,15 +17,15 @@ redirect_from:
 * **2025年11月29日**, 彭建兵院士、贾永刚教授合著专著《琼东南盆地海底地质灾害与风险防控研究》在科学出版社出版，李家彪院士、谢玉洪院士作序。朱超祁参编、统稿，团队硕士生詹贤达等校稿。
 * **2025年11月29日**, [中国科学院海洋研究所朋友来校交流，并作报告Observations of the generation and propagation of near-inertial waves](https://zhuchaoqi.cn/posts/2025/11/29/blog-post-2/).
 * **2025年11月18日**, 博士毕业生李正辉国家发明专利《一种模拟快速沉积作用触发海底滑坡的试验装置及方法》获得授权.
-* **2025年11月04日**, 博士毕业生李正辉在International Journal of Mining Science and Technology（IF 13.7，中科院1区TOP）发表Potential failure mechanism of low–angle submarine landslides in shelf–slope break of Pearl River Mouth Basin, South China Sea.🔥🔥🔥
-* **2025年11月01日**, 硕士生詹贤达获得中国银行研究生学术之星奖学金. 🔥🔥🔥
+* **2025年11月04日**, 博士毕业生李正辉在International Journal of Mining Science and Technology（IF 13.7，中科院1区TOP）发表Potential failure mechanism of low–angle submarine landslides in shelf–slope break of Pearl River Mouth Basin, South China Sea.🔥🔥
+* **2025年11月01日**, 硕士生詹贤达获得中国银行研究生学术之星奖学金. 🔥🔥
 * **2025年10月10日**, [硕士生詹贤达在第十二届南海年会作演讲报告《台风“奥鹿”影响下南海北部神狐陆架坡折区的海底风暴形成过程与机制》](https://zhuchaoqi.cn/posts/2025/1010/blog-post-2/).
 * **2025年09月26日**, 山东省海洋局公布2025年度海洋科技创新奖，团队成果《黄河三角洲滨海湿地生态安全保障机制及对策研究》获二等奖.
 * **2025年09月25日**, [单红仙教授荣休仪式举行](https://zhuchaoqi.cn/posts/2025/0925/blog-post-2/).
 * **2025年09月10日**, 论文Fluorescence characteristics of dissolved organic matter and its association with the nepheloid layer in the northern South China Sea在Oceanologia（中科院2区）发表.
 * **2025年09月01日**, 硕士生吴净轩、郑可威、刘倍宽、吕文睿、徐冲5位同学加入课题组. 
-* **2025年08月01日**, 贾永刚教授、朱超祁合著专著《内孤立波对南海北部陆坡影响研究》在科学出版社正式出版，彭建兵院士、张偲院士为该书作序. 🔥🔥🔥
-* **2025年07月01日**, 朱超祁入选山东省泰山学者青年专家. 🔥🔥🔥
+* **2025年08月01日**, 贾永刚教授、朱超祁合著专著《内孤立波对南海北部陆坡影响研究》在科学出版社正式出版，彭建兵院士、张偲院士为该书作序. 🔥🔥
+* **2025年07月01日**, 朱超祁入选山东省泰山学者青年专家. 🔥🔥
 * **2025年06月30日**, [博士生冯学志、王林森毕业，祝福两位同学](https://zhuchaoqi.cn/posts/2025/0618/blog-post-2/). 
 * **2025年05月28日**, 硕士生张正荣在Journal of Marine Science and Engineering（中科院3区）连续发表2篇论文. 
 * **2025年05月12日**, [朱超祁在第十届青年地学论坛作《南海神狐陆架坡折带气体羽状流的发现及其海洋动力调控机制》学术报告](https://zhuchaoqi.cn/posts/2025/0512/blog-post-2/). 
