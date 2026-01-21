@@ -30,12 +30,12 @@ redirect_from:
 
 ## 毕业学生
 <img src='/images/冯学志.jpg' width="128" height="170"><br>
-**[冯学志](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (博士生 2020-2025) (与贾永刚教授共同指导)
+**[冯学志](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (博士 2020-2025) (与贾永刚教授共同指导)
 * 学位论文: 南海神狐海域内孤立波对海底作用过程研究  <br>
 * 毕业去向: 山东生态环境学院
 
 <img src='/images/王林森.jpg' width="128" height="170"><br>
-**[王林森](https://www.researchgate.net/profile/Linsen-Wang)** (博士生 2020-2025) (与贾永刚教授共同指导)
+**[王林森](https://www.researchgate.net/profile/Linsen-Wang)** (博士 2020-2025) (与贾永刚教授共同指导)
 * 学位论文: 自由下落式触探技术（FFCPT）确定海底沉积物强度与类型研究  <br>
 * 毕业去向: 中建八局
   
