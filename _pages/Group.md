@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 ## **<font color='red'>S</font>**eabed **<font color='red'>E</font>**volution **<font color='red'>A</font>**ffected by **<font color='red'>Fluids</font>** (SEA-Fluids)
-围绕海洋工程地质与环境地质灾害开展研究工作，重点关注海底浅层地质流体与海洋动力过程协同作用下的海底演化规律与机理.
+围绕海洋工程地质与环境地质灾害开展研究工作，重点关注海底浅层地质流体与海洋动力过程协同作用下的海底演化规律与机理。
 
 ## 在读学生
 <img src='/images/吴净轩.png' width="128" height="170"><br>
