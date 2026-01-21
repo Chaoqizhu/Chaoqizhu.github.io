@@ -41,7 +41,7 @@ redirect_from:
 * **2024年12月19日**，[朱超祁参加船载潜载设备的高分辨率海底探测技术与方法研讨会，并作报告](https://zhuchaoqi.cn/posts/2024/1219/blog-post-2/)。
 * **2024年12月08日**，[朱超祁到中国科学院声学研究所交流](https://zhuchaoqi.cn/posts/2024/1208/blog-post-2/)。
 * **2024年11月27日**，本科生文金腾获得中国海洋大学本科生研究发展计划（OUC-SRDP）立项.
-* **2024年11月15日**，《中国报道》刊发国家自然科学基金南海重大科考航次专栏，对朱超祁副教授进行采访.
+* **2024年11月15日**，《中国报道》刊发国家自然科学基金南海重大科考航次专栏，对团队进行采访.
 * **2024年10月23-26日**，团队师生到[南方海洋科学与工程广东省实验室（广州）](https://zhuchaoqi.cn/posts/2024/1022/blog-post-2/)、[自然资源部深圳海洋中心](https://zhuchaoqi.cn/posts/2024/1023/blog-post-2/)、[中山大学](https://zhuchaoqi.cn/posts/2024/1024/blog-post-2/)、[南方科技大学](https://zhuchaoqi.cn/posts/2024/1025/blog-post-2/)、[哈尔滨工业大学(深圳)](https://zhuchaoqi.cn/posts/2024/102602/blog-post-2/)、[深圳大学](https://zhuchaoqi.cn/posts/2024/1026/blog-post-2/)等单位交流并作报告.
 * **2024年10月18日**，[硕士生詹贤达在东方红海坛作《海洋沉积物洗筛与沉降实验研究》学术演讲报告](https://zhuchaoqi.cn/posts/2024/1018/blog-post-2/).
 * **2024年10月05日**，[贾永刚教授担任首席科学家，朱超祁副教授担任首席助理的国家自然科学基金南海重大科考航次启航](https://zhuchaoqi.cn/posts/2024/1004/blog-post-2/)！
