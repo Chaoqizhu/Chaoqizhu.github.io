@@ -48,7 +48,7 @@ redirect_from:
 * **2024年09月27日**, [近期团队师生迎酷暑，积极准备2024年重大科考航次](https://zhuchaoqi.cn/posts/2024/0927/blog-post-2/)。
 * **2024年09月01日**, 欢迎投稿Journal of Marine Science and Engineering海洋地质灾害专刊[Marine Geohazards: Characterization to Prediction](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors), 朱超祁与Kiichiro Kawamura教授、孙启良教授共同召集，2025年06月10日截止。
 * **2024年07月20日**, [硕士生詹贤达参加“河口海岸野外研究方法”暑期学校](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ)。
-* **2024年07月01日**, 初步建立课题组网站.
+* **2024年07月01日**, 初步建立课题组网站.<br>
 [**↑ Top**](#Top)
 
 更新: 2026年01月21日
