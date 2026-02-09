@@ -15,7 +15,7 @@ redirect_from:
 ======
 ------
 * **2026年02月07日**, 课题组师生参加GEE（青岛）2025学术交流会，[并作报告](https://zhuchaoqi.cn/posts/2026/0207/blog-post-2/)。
-* **2026年02月04日**, 朱超祁参加中国岩石力学与工程学会第15届科技创新及科普论坛，[并作报告](https://zhuchaoqi.cn/posts/2026/0204/blog-post-2/)。
+* **2026年02月04日**, 朱超祁参加中国岩石力学与工程学会第15届科技创新及科普论坛，并作报告[《流体作用下的海床演化过程机制及监测技术》](https://zhuchaoqi.cn/posts/2026/0204/blog-post-2/)。
 * **2026年01月29日**, 大连海事大学朋友来访，[并作报告](https://zhuchaoqi.cn/posts/2026/0129/blog-post-2/)。
 * **2026年01月28日**, [朱超祁参加南海北部海床流体迁移致灾机理重大科考实验研究2025航次总结暨2026工作方案研讨会，并作报告](https://zhuchaoqi.cn/posts/2026/0128/blog-post-2/)。
 * **2026年01月27日**, 詹贤达撰写的国家发明专利《一种可监测浓度变化的深海沉积物洗筛装置及其工作方法》获得授权。
@@ -59,6 +59,6 @@ redirect_from:
 * **2024年07月01日**, 初步建立课题组网站.<br>
 [**↑ Top**](#Top)
 
-更新: 2026年01月29日
+更新: 2026年02月09日
 
 <a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>
