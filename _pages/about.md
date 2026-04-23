@@ -12,6 +12,11 @@ redirect_from:
 课题组新闻
 ======
 ------
+* **2026年04月18日**，朱超祁参加2026防灾减灾大会（杭州）并作海洋灾害分论坛[报告](https://zhuchaoqi.cn/posts/2026/04/18/)《南海珠江口盆地陆架坡折带低角度海底滑坡破坏机制研究》
+* **2026年04月11日**，朱超祁参加第十一届青年地学论坛（广州）[并作报告](https://zhuchaoqi.cn/posts/2026/04/11/)《神狐海域陆架坡折带海底甲烷控释过程原位观测》
+* **2026年04月10日**，课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/)🔥🔥
+* **2026年04月08日**，课题组成果Morphodynamics and geohazard significance of the Shenhu Submarine Canyon System: Evidence from multibeam bathymetry and 3D seismic data在期刊Geomorphology发表。
+* **2026年02月26日**，课题组成果Advances in Understanding Marine Geohazards: From Characterization to Prediction在期刊Journal of Marine Science and Engineering发表。
 * **2026年02月07日**, 课题组师生参加GEE（青岛）2025学术交流会，[并作报告](https://zhuchaoqi.cn/posts/2026/0207/blog-post-2/)。
 * **2026年02月04日**, 朱超祁参加中国岩石力学与工程学会第15届科技创新及科普论坛，并作报告[《流体作用下的海床演化过程机制及监测技术》](https://zhuchaoqi.cn/posts/2026/0204/blog-post-2/)。
 * **2026年01月29日**, 大连海事大学朋友来访，[并作报告](https://zhuchaoqi.cn/posts/2026/0129/blog-post-2/)。
@@ -57,6 +62,6 @@ redirect_from:
 * **2024年07月01日**, 初步建立课题组网站.<br>
 [**↑ Top**](#Top)
 
-更新: 2026年02月09日
+更新: 2026年04月23日
 
 <a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>
