@@ -16,6 +16,7 @@ redirect_from:
 * **2026年07月24日**，朱超祁、刘倍宽、吴净轩到访[中科院南海所](https://zhuchaoqi.cn/posts/2026/072401/)、[广州海洋地质调查局](https://zhuchaoqi.cn/posts/2026/072402/)，朱超祁、吴净轩做观测报告
 * **2026年07月14日**，[南海科考航次启航](https://zhuchaoqi.cn/posts/2026/0714/)（朱超祁、刘倍宽、吴净轩参航）
 * **2026年07月08日**，朱超祁获得2025年度[国家技术发明奖二等奖](https://zhuchaoqi.cn/posts/2026/0708/)（北京）🔥🔥🔥🔥
+* **2026年06月25日**，课题组毕业生冯学志获批山东省自然科学基金青年项目
 * **2026年06月25日**，课题组论文Dynamic capture and evaluation of coastal dune evolution by integrating InSAR and ORS在 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 发表
 * **2026年06月24日**，朱超祁参加[海底沉积演化与声学探测专题学术交流会](https://zhuchaoqi.cn/posts/2026/0624/)（青岛），并作报告《神狐海域陆架坡折带气体羽状流的发现及其控释过程原位观测》
 * **2026年06月**，课题组全员参与，[备战南海科考航次](https://zhuchaoqi.cn/posts/2026/0601/)
@@ -45,7 +46,8 @@ redirect_from:
 * **2025年09月26日**, 山东省海洋局公布2025年度海洋科技创新奖，团队成果《黄河三角洲滨海湿地生态安全保障机制及对策研究》获二等奖.
 * **2025年09月25日**, [单红仙教授荣休仪式举行](https://zhuchaoqi.cn/posts/2025/0925/blog-post-2/).
 * **2025年09月10日**, 论文Fluorescence characteristics of dissolved organic matter and its association with the nepheloid layer in the northern South China Sea在Oceanologia（中科院2区）发表.
-* **2025年09月01日**, 硕士生吴净轩、郑可威、刘倍宽、吕文睿、徐冲5位同学加入课题组. 
+* **2025年09月01日**, 硕士生吴净轩、郑可威、刘倍宽、吕文睿、徐冲5位同学加入课题组.
+* **2025年08月27日**, 祝贺课题组毕业生李正辉获批国家自然科学基金青年项目.
 * **2025年08月01日**, 贾永刚教授、朱超祁合著专著《内孤立波对南海北部陆坡影响研究》在科学出版社正式出版，彭建兵院士、张偲院士为该书作序. 
 * **2025年07月01日**, 朱超祁入选山东省泰山学者青年专家. 🔥🔥🔥🔥
 * **2025年06月30日**, [博士生冯学志、王林森毕业，祝福两位同学](https://zhuchaoqi.cn/posts/2025/0618/blog-post-2/). 
