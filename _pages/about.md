@@ -18,7 +18,7 @@ redirect_from:
 * **2026年07月08日**，朱超祁获得2025年度国家技术发明奖二等奖（北京）
 * **2026年06月25日**，课题组论文Dynamic capture and evaluation of coastal dune evolution by integrating InSAR and ORS在 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 发表
 * **2026年06月24日**，朱超祁参加海底沉积演化与声学探测专题学术交流会（青岛），并作报告《神狐海域陆架坡折带气体羽状流的发现及其控释过程原位观测》
-* **2026年06月**，课题组全员参与，备战南海科考航次
+* **2026年06月**，课题组全员参与，[备战南海科考航次](https://zhuchaoqi.cn/posts/2026/06/)
 * **2026年05月30日**，朱超祁参加[《工程地质学报》第六届编委会成立大会](https://zhuchaoqi.cn/posts/2026/0530/)（北京）
 * **2026年05月26日**，朱超祁参加第一届海底科学与技术前沿论坛（厦门）
 * **2026年05月14日**，课题组论文A study on the dynamic changes in micro-geomorphology of sandy seafloor under the influence of wave action在 Marine Development 发表
