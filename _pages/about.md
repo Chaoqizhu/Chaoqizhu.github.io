@@ -13,7 +13,7 @@ redirect_from:
 ======
 ------
 * **2026年07月28日**，南海科考航次再启航（鲁德泉、刘倍宽、吴净轩参航）
-* **2026年07月24日**，朱超祁、刘倍宽、吴净轩到访中科院南海所、广州海洋地质调查局，朱超祁、吴净轩做观测汇报
+* **2026年07月24日**，朱超祁、刘倍宽、吴净轩到访[中科院南海所](https://zhuchaoqi.cn/posts/2026/072401/)、[广州海洋地质调查局](https://zhuchaoqi.cn/posts/2026/072402/)，朱超祁、吴净轩做观测报告
 * **2026年07月14日**，[南海科考航次启航](https://zhuchaoqi.cn/posts/2026/0714/)（朱超祁、刘倍宽、吴净轩参航）
 * **2026年07月08日**，朱超祁获得2025年度[国家技术发明奖二等奖](https://zhuchaoqi.cn/posts/2026/0708/)（北京）🔥🔥🔥🔥
 * **2026年06月25日**，课题组论文Dynamic capture and evaluation of coastal dune evolution by integrating InSAR and ORS在 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 发表
