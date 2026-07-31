@@ -15,7 +15,7 @@ redirect_from:
 * **2026年07月28日**，南海科考航次再启航（鲁德泉、刘倍宽、吴净轩参航）
 * **2026年07月24日**，朱超祁、刘倍宽、吴净轩到访中科院南海所、广州海洋地质调查局，朱超祁、吴净轩做观测汇报
 * **2026年07月14日**，南海科考航次启航（朱超祁、刘倍宽、吴净轩参航）
-* **2026年07月08日**，朱超祁获得2025年度国家技术发明奖二等奖（北京）
+* **2026年07月08日**，朱超祁获得2025年度[国家技术发明奖二等奖](https://zhuchaoqi.cn/posts/2026/0708/)（北京）🔥🔥🔥🔥
 * **2026年06月25日**，课题组论文Dynamic capture and evaluation of coastal dune evolution by integrating InSAR and ORS在 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 发表
 * **2026年06月24日**，朱超祁参加[海底沉积演化与声学探测专题学术交流会](https://zhuchaoqi.cn/posts/2026/0624/)（青岛），并作报告《神狐海域陆架坡折带气体羽状流的发现及其控释过程原位观测》
 * **2026年06月**，课题组全员参与，[备战南海科考航次](https://zhuchaoqi.cn/posts/2026/0601/)
@@ -25,7 +25,7 @@ redirect_from:
 * **2026年04月18日**，朱超祁参加2026防灾减灾大会（杭州）并作海洋灾害分论坛[报告](https://zhuchaoqi.cn/posts/2026/04/18/)《南海珠江口盆地陆架坡折带低角度海底滑坡破坏机制研究》
 * **2026年04月14日**，课题组论文Morphodynamics and geohazard significance of the Shenhu Submarine Canyon System: Evidence from multibeam bathymetry and 3D seismic data在 Geomorphology 发表
 * **2026年04月11日**，朱超祁参加第十一届青年地学论坛（广州）[并作报告](https://zhuchaoqi.cn/posts/2026/04/11/)《神狐海域陆架坡折带海底甲烷控释过程原位观测》
-* **2026年04月10日**，课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/)🔥🔥
+* **2026年04月10日**，课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/)🔥🔥🔥🔥
 * **2026年04月08日**，课题组成果Morphodynamics and geohazard significance of the Shenhu Submarine Canyon System: Evidence from multibeam bathymetry and 3D seismic data在期刊Geomorphology发表。
 * **2026年02月26日**，课题组成果Advances in Understanding Marine Geohazards: From Characterization to Prediction在期刊Journal of Marine Science and Engineering发表。
 * **2026年02月07日**, 课题组师生参加GEE（青岛）2025学术交流会，[并作报告](https://zhuchaoqi.cn/posts/2026/0207/blog-post-2/)。
@@ -46,8 +46,8 @@ redirect_from:
 * **2025年09月25日**, [单红仙教授荣休仪式举行](https://zhuchaoqi.cn/posts/2025/0925/blog-post-2/).
 * **2025年09月10日**, 论文Fluorescence characteristics of dissolved organic matter and its association with the nepheloid layer in the northern South China Sea在Oceanologia（中科院2区）发表.
 * **2025年09月01日**, 硕士生吴净轩、郑可威、刘倍宽、吕文睿、徐冲5位同学加入课题组. 
-* **2025年08月01日**, 贾永刚教授、朱超祁合著专著《内孤立波对南海北部陆坡影响研究》在科学出版社正式出版，彭建兵院士、张偲院士为该书作序. 🔥🔥
-* **2025年07月01日**, 朱超祁入选山东省泰山学者青年专家. 🔥🔥
+* **2025年08月01日**, 贾永刚教授、朱超祁合著专著《内孤立波对南海北部陆坡影响研究》在科学出版社正式出版，彭建兵院士、张偲院士为该书作序. 
+* **2025年07月01日**, 朱超祁入选山东省泰山学者青年专家. 🔥🔥🔥🔥
 * **2025年06月30日**, [博士生冯学志、王林森毕业，祝福两位同学](https://zhuchaoqi.cn/posts/2025/0618/blog-post-2/). 
 * **2025年05月28日**, 硕士生张正荣在Journal of Marine Science and Engineering（中科院3区）连续发表2篇论文. 
 * **2025年05月12日**, [朱超祁在第十届青年地学论坛作《南海神狐陆架坡折带气体羽状流的发现及其海洋动力调控机制》学术报告](https://zhuchaoqi.cn/posts/2025/0512/blog-post-2/). 
