@@ -73,6 +73,6 @@ redirect_from:
 * **2024年07月01日**, 初步建立课题组网站.<br>
 [**↑ Top**](#Top)
 
-更新: 2026年04月23日
+更新: 2026年07月31日
 
 <a href="https://clustrmaps.com/site/1bz7y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=At1OFn1c7i789Mtd0K1lmdc9Tp8wul64K-Fk6hllIpo&cl=ffffff" /></a>
