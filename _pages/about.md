@@ -7,12 +7,23 @@ redirect_from:
   - /about.html
 ---
 ------
-中国海洋大学副教授，**EI期刊JMEE主编、山东省泰山学者青年专家、山东省高校青年创新团队负责人，入选中国科协青年人才托举工程、青岛市高层次人才**。围绕海洋工程地质与环境地质开展研究工作，主持国家自然科学基金、山东省重点研发计划、山东省自然科学基金，担任多个SCI与EI期刊主编/副主编/编委，在《中国科学-地球科学》、Engineering Geology等期刊发表论文60余篇，其中3项一作论文分别获得Geology Today、AGU会刊EOS专题报道。联合申请美国、日本、欧盟、中国发明专利等产权近40项，获山东省海洋科技创新奖一等奖(R1)、海南省技术发明一等奖(R3)、海南省科技进步二等奖(R2)、教育部技术发明一等奖(R6)、山东省技术发明奖二等奖(R6)等科技奖励十余项，成果入选山东省十大优秀地质成果奖(R1)、中国十大地质科技进展(R6)。
+中国海洋大学副教授，**EI期刊JMEE主编、山东省泰山学者青年专家、山东省高校青年创新团队负责人，入选中国科协青年人才托举工程、青岛市高层次人才**。围绕海洋工程地质与环境地质开展研究工作，主持国家自然科学基金、山东省重点研发计划、山东省自然科学基金，担任多个SCI与EI期刊主编/副主编/编委，在《中国科学-地球科学》、Engineering Geology等期刊发表论文60余篇，其中3项一作论文分别获得Geology Today、AGU会刊EOS专题报道。联合申请美国、日本、欧盟、中国发明专利等产权近40项，获**国家技术发明奖二等奖(R6)**、山东省海洋科技创新奖一等奖(R1)、海南省技术发明一等奖(R3)、海南省科技进步二等奖(R2)、教育部技术发明一等奖(R6)、山东省技术发明奖二等奖(R6)等科技奖励十余项，成果入选山东省十大优秀地质成果奖(R1)、中国十大地质科技进展(R6)。
 
 课题组新闻
 ======
 ------
+* **2026年07月28日**，南海科考航次再启航（鲁德泉、刘倍宽、吴净轩参航）
+* **2026年07月24日**，朱超祁、刘倍宽、吴净轩到访中科院南海所、广州海洋地质调查局，朱超祁、吴净轩做观测汇报
+* **2026年07月14日**，南海科考航次启航（朱超祁、刘倍宽、吴净轩参航）
+* **2026年07月08日**，朱超祁获得2025年度国家技术发明奖二等奖（北京）
+* **2026年06月25日**，课题组论文Dynamic capture and evaluation of coastal dune evolution by integrating InSAR and ORS在 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 发表
+* **2026年06月24日**，朱超祁参加海底沉积演化与声学探测专题学术交流会（青岛），并作报告《神狐海域陆架坡折带气体羽状流的发现及其控释过程原位观测》
+* **2026年06月**，课题组全员参与，备战南海科考航次
+* **2026年05月30日**，朱超祁参加《工程地质学报》第六届编委会成立大会（北京）
+* **2026年05月26日**，朱超祁参加第一届海底科学与技术前沿论坛（厦门）
+* **2026年05月14日**，课题组论文A study on the dynamic changes in micro-geomorphology of sandy seafloor under the influence of wave action在 Marine Development 发表
 * **2026年04月18日**，朱超祁参加2026防灾减灾大会（杭州）并作海洋灾害分论坛[报告](https://zhuchaoqi.cn/posts/2026/04/18/)《南海珠江口盆地陆架坡折带低角度海底滑坡破坏机制研究》
+* **2026年04月14日**，课题组论文Morphodynamics and geohazard significance of the Shenhu Submarine Canyon System: Evidence from multibeam bathymetry and 3D seismic data在 Geomorphology 发表
 * **2026年04月11日**，朱超祁参加第十一届青年地学论坛（广州）[并作报告](https://zhuchaoqi.cn/posts/2026/04/11/)《神狐海域陆架坡折带海底甲烷控释过程原位观测》
 * **2026年04月10日**，课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/)🔥🔥
 * **2026年04月08日**，课题组成果Morphodynamics and geohazard significance of the Shenhu Submarine Canyon System: Evidence from multibeam bathymetry and 3D seismic data在期刊Geomorphology发表。
