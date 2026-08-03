@@ -70,44 +70,25 @@ Identifying intermittent and quasi-periodic gas release processes at continental
 📝 Selected Publications (First-author and corresponding-author contributions)
 ======
 ------
-1. Zhu, C., Peng, J., Jia, Y. (2023).  
-Marine geohazards: Past, present, and future.  
-*Engineering Geology*, 323, 107230.
+1. Zhu, C., Peng, J., Jia, Y. (2023).  Marine geohazards: Past, present, and future.  *Engineering Geology*, 323, 107230.
 
-2. Li, Z., Hu, C., Lohar, G. K., Wang, X., Chen, D., Liu, H., Singh, D. N., Zhu, C., Jia, Y. (2025).  
-Potential failure mechanism of low-angle submarine landslides in shelf–slope break of Pearl River Mouth Basin, South China Sea.  
-*International Journal of Mining Science and Technology*, 35(11), 2031–2053.
+2. Li, Z., Hu, C., Lohar, G. K., Wang, X., Chen, D., Liu, H., Singh, D. N., Zhu, C., Jia, Y. (2025).  Potential failure mechanism of low-angle submarine landslides in shelf–slope break of Pearl River Mouth Basin, South China Sea.  *International Journal of Mining Science and Technology*, 35(11), 2031–2053.
 
-3. Zhu, C., Jiao, X., Cheng, S., Li, Q., Liu, K., Shan, H., Li, C., Jia, Y. (2023).  
-Visualizing fluid migration due to hydrate dissociation: Implications for submarine slides.  
-*Environmental Geotechnics*, 10(3), 218–226.
+3. Zhu, C., Jiao, X., Cheng, S., Li, Q., Liu, K., Shan, H., Li, C., Jia, Y. (2023).  Visualizing fluid migration due to hydrate dissociation: Implications for submarine slides.  *Environmental Geotechnics*, 10(3), 218–226.
 
-4. Zhu, C., Li, S., Chen, J., Wang, D., Song, X., Li, Z., Chen, B., Shan, H., Jia, Y. (2023).  
-Nepheloid layer generation by gas eruption: Unexpected experimental results.  
-*Journal of Oceanology and Limnology*, 41(2), 769–777.
+4. Zhu, C., Li, S., Chen, J., Wang, D., Song, X., Li, Z., Chen, B., Shan, H., Jia, Y. (2023).  Nepheloid layer generation by gas eruption: Unexpected experimental results.  *Journal of Oceanology and Limnology*, 41(2), 769–777.
 
-5. Zhu, C., Li, Z., Chen, D., Li, S., Song, X., Shan, H., Jia, Y. (2021).  
-Seafloor breathing helping forecast hydrate-related geohazards.  
-*Energy Reports*, 7, 8108–8114.
+5. Zhu, C., Li, Z., Chen, D., Li, S., Song, X., Shan, H., Jia, Y. (2021).  Seafloor breathing helping forecast hydrate-related geohazards.  *Energy Reports*, 7, 8108–8114.
 
-6. Zhu, C., Cheng, S., Li, Q., Shan, H., Lu, J., Shen, Z., Liu, X., Jia, Y. (2019).  
-Giant submarine landslide in the South China Sea: Evidence, causes and implications.  
-*Journal of Marine Science and Engineering*, 7(5), 152.
+6. Zhu, C., Cheng, S., Li, Q., Shan, H., Lu, J., Shen, Z., Liu, X., Jia, Y. (2019).  Giant submarine landslide in the South China Sea: Evidence, causes and implications.  *Journal of Marine Science and Engineering*, 7(5), 152.
 
-7. Zhu, C., Liu, X., Shan, H., Zhang, H., Shen, Z., Zhang, B., Jia, Y. (2018).  
-Properties of suspended sediment concentrations in the Yellow River delta based on observation.  
-*Marine Georesources & Geotechnology*, 36(1), 139–149.
+7. Zhu, C., Liu, X., Shan, H., Zhang, H., Shen, Z., Zhang, B., Jia, Y. (2018).  Properties of suspended sediment concentrations in the Yellow River delta based on observation.  *Marine Georesources & Geotechnology*, 36(1), 139–149.
 
-8. Li, Z., Chen, T., Liu, H., Ji, C., Zhu, C., Hu, C., Jia, Y. (2022).  
-Earthquake response and post-earthquake stability assessment of submarine clay slopes.  
-*Applied Ocean Research*, 127, 103322.
+8. Li, Z., Chen, T., Liu, H., Ji, C., Zhu, C., Hu, C., Jia, Y. (2022). Earthquake response and post-earthquake stability assessment of submarine clay slopes.  *Applied Ocean Research*, 127, 103322.
 
-9. Xie, Y., Lu, J., Cai, H., Deng, W., Kuang, Z., Wang, T., Kang, D., Zhu, C. (2022).  
-The in-situ NMR evidence of gas hydrate forming in micro-pores in the Shenhu area, South China Sea.  
-*Energy Reports*, 8, 2936–2946.
+9. Xie, Y., Lu, J., Cai, H., Deng, W., Kuang, Z., Wang, T., Kang, D., Zhu, C. (2022).  The in-situ NMR evidence of gas hydrate forming in micro-pores in the Shenhu area, South China Sea. *Energy Reports*, 8, 2936–2946.
 
-10. Feng, X., Wang, L., Ji, C., Wang, H., Zhu, C., Jia, Y. (2023).  
-The impact of internal solitary waves on deep-sea benthic organisms on the continental slope of the northern South China Sea.  
+10. Feng, X., Wang, L., Ji, C., Wang, H., Zhu, C., Jia, Y. (2023).  The impact of internal solitary waves on deep-sea benthic organisms on the continental slope of the northern South China Sea.  
 *Frontiers in Marine Science*, 10, 1184397.<br/> 
 
 
@@ -137,15 +118,15 @@ The impact of internal solitary waves on deep-sea benthic organisms on the conti
 ======
 ------
 * **Editor-in-Chief**, [Journal of Marine Environmental Engineering](https://www.oldcitypublishing.com/journals/jmee-home/)
-* **Associate Editor**, [Environment, Development and Sustainability](https://link.springer.com/journal/10668)
-* **Editorial Board Member**, [Science Progress](https://journals.sagepub.com/editorial-board/SCI)
-* **Editorial Board Member**, [Thalassas: An International Journal of Marine Sciences](https://link.springer.com/journal/41208)
-* **Editorial Board Member**, [Geoenvironmental Disasters](https://geoenvironmental-disasters.springeropen.com/)
-* **Youth Editorial Board Member**, [China Geology](https://www.sciencedirect.com/journal/china-geology)
-* **Guest Editor**, [Energy Reports](https://www.sciencedirect.com/journal/energy-reports/special-issue/10LNPQPBFC5)
-* **Guest Editor**, [Journal of Marine Science and Engineering ](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors)
-* **Guest Editor**, [Water](https://www.mdpi.com/journal/water/special_issues/sediment_dynamics) 
-* **Guest Editor**, [Environmental Geotechnics](https://www.icevirtuallibrary.com/toc/jenge/10/3) <br/> 
+* Associate Editor, [Environment, Development and Sustainability](https://link.springer.com/journal/10668)
+* Editorial Board Member, [Science Progress](https://journals.sagepub.com/editorial-board/SCI)
+* Editorial Board Member, [Thalassas: An International Journal of Marine Sciences](https://link.springer.com/journal/41208)
+* Editorial Board Member, [Geoenvironmental Disasters](https://geoenvironmental-disasters.springeropen.com/)
+* Youth Editorial Board Member, [China Geology](https://www.sciencedirect.com/journal/china-geology)
+* Guest Editor, [Energy Reports](https://www.sciencedirect.com/journal/energy-reports/special-issue/10LNPQPBFC5)
+* Guest Editor, [Journal of Marine Science and Engineering ](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors)
+* Guest Editor, [Water](https://www.mdpi.com/journal/water/special_issues/sediment_dynamics) 
+* Guest Editor, [Environmental Geotechnics](https://www.icevirtuallibrary.com/toc/jenge/10/3) <br/> 
 
 
 📝 Selected Awards and Recognition
