@@ -10,16 +10,84 @@ redirect_from:
 **SEA-Fluids研究组致力于探索海底流体与海洋动力过程如何共同塑造海床演化与失稳**。
 
 ## 课题组负责人
-<img src='/images/Chaoqi zhu profile.jpg' width="128" height="170"><br>
-**朱超祁**，山东省泰山学者青年专家，中国科协青年人才托举工程入选者，山东省高校青年创新团队负责人，EI期刊JMEE主编。主持国家自然科学基金、山东省重点研发计划、山东省自然科学基金，研究成果被Geology Today、美国地球物理学会会刊EOS专题报道，获国家技术发明奖二等奖、教育部技术发明奖一等奖、海南省技术发明奖一等奖等。<br>
-
-## 课题组负责人
 <div style="display:flex; align-items:flex-start; margin-bottom:30px;">
 <img src='/images/Chaoqi zhu profile.jpg' width="128" height="170" style="margin-right:25px;">
 <div>
-<b>朱超祁</b>中国海洋大学副教授，山东省泰山学者青年专家，中国科协青年人才托举工程入选者，山东省高校青年创新团队负责人，EI期刊JMEE主编。主要从事海洋工程地质与环境地质研究，聚焦流体驱动海床演化与失稳机制。主持国家自然科学基金、山东省重点研发计划、山东省自然科学基金等科研项目。研究成果被 <i>Geology Today</i>、美国地球物理学会会刊 <i>EOS</i> 专题报道，获国家技术发明奖二等奖、教育部技术发明奖一等奖、海南省技术发明奖一等奖等。
+<b>朱超祁</b>，中国海洋大学副教授，山东省泰山学者青年专家，中国科协青年人才托举工程入选者，山东省高校青年创新团队负责人，EI期刊JMEE主编。主要从事流体驱动海床演化与失稳机制研究。主持国家自然科学基金、山东省重点研发计划、山东省自然科学基金等科研项目。研究成果被 <i>Geology Today</i>、美国地球物理学会会刊 <i>EOS</i> 专题报道，获国家技术发明奖二等奖、教育部技术发明奖一等奖、海南省技术发明奖一等奖等。
 </div>
 </div>
+
+## 在读学生
+
+### 2026级硕士研究生
+
+<table>
+<tr>
+<td align="center">
+<img src="/images/张欣雨.png" width="128" height="170"><br>
+<b>张欣雨</b>
+</td>
+
+<td align="center">
+<img src="/images/王乃硕.jpg" width="128" height="170"><br>
+<b>王乃硕</b>
+</td>
+
+<td></td>
+</tr>
+</table>
+
+
+### 2025级硕士研究生
+
+<table>
+<tr>
+<td align="center">
+<img src="/images/吴净轩.png" width="128" height="170"><br>
+<b>吴净轩</b>
+</td>
+
+<td align="center">
+<img src="/images/吕文睿.png" width="128" height="170"><br>
+<b>吕文睿</b>
+</td>
+
+<td align="center">
+<img src="/images/徐冲.png" width="128" height="170"><br>
+<b>徐冲</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/images/刘倍宽.jpg" width="128" height="170"><br>
+<b>刘倍宽</b>
+</td>
+
+<td align="center">
+<img src="/images/郑可威.jpg" width="128" height="170"><br>
+<b>郑可威</b>
+</td>
+
+<td></td>
+</tr>
+</table>
+
+
+### 2024级硕士研究生
+
+<table>
+<tr>
+<td align="center">
+<img src="/images/詹贤达.jpg" width="128" height="170"><br>
+<b>詹贤达</b>
+</td>
+
+<td></td>
+<td></td>
+</tr>
+</table>
+
 
 
 ## 在读学生
