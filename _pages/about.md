@@ -24,7 +24,7 @@ redirect_from:
 * 主要研究内容：内孤立波与深海动力过程、台风驱动底边界层响应、沉积物再悬浮与输运、海床地貌与稳定性演化<br/> 
 <br/>
 
-年度新闻遴选🔥🔥🔥🔥
+年度新闻遴选🔥
 ======
 ------
 **2026**
@@ -38,6 +38,9 @@ redirect_from:
 **2024**
 * 12月｜朱超祁领衔的海洋地质灾害研究团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项
 * 08月｜独立招收首名研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
+
+------
+**SEA-Fluids课题组欢迎校内外同行开展学术交流与科研合作，欢迎校内外优秀学生报考，共同开展海底流体、海洋动力过程及海床演化相关研究。**
 
 [**↑ Top**](#Top)
 
