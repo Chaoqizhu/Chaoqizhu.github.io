@@ -1,12 +1,12 @@
 ---
 permalink: /news/
-title: "新闻"
+title: "新闻（点击超链接，可以查看图片）"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-点击超链接，可以查看图片新闻
+
 ======
 ------
 * **2026年07月28日**，南海科考航次再启航（鲁德泉、刘倍宽、吴净轩参航）
