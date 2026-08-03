@@ -65,9 +65,7 @@ Identifying intermittent and quasi-periodic gas release processes at continental
 * Ph.D in Environmental Geological Engineering, Ocean University of China, 2016
 * B.S. in Civil Engineering, Shandong University, 2010
  
-📝 Selected Publications
-======
-------
+
 📝 Selected Publications (First-author and corresponding-author contributions)
 ======
 ------
