@@ -37,7 +37,8 @@ If you are interested in marine fluids, seabed evolution, and deep-sea geohazard
 * **Taishan Scholar**  
   Shandong Province, China
 
-* **Leader**, Young Innovation Team Program of Shandong Provincial Universities
+* **Leader**
+  Young Innovation Team Program of Shandong Provincial Universities
 
 * **Selected Young Elite Scientist**  
   China Association for Science and Technology (CAST)
@@ -113,9 +114,24 @@ The impact of internal solitary waves on deep-sea benthic organisms on the conti
 💰 Selected Research Grants
 ======
 ------
-* National Natural Science Foundation of China (NSFC)
-* Research projects on submarine fluid systems, marine geohazards, and seabed evolution
 
+* **Principal Investigator**  
+  National Natural Science Foundation of China (NSFC)  
+  *Fluid migration and its influence on seabed stability during gas hydrate dissociation in deep sea*  
+  2023–2025  
+  Grant No. 42207173
+
+* **Principal Investigator**  
+  Natural Science Foundation of Shandong Province  
+  *Relationship between submarine landslides and submarine fluids at the Shenhu shelf-break zone, South China Sea*  
+  2023–2025  
+  Grant No. ZR2022QD002
+
+* **Principal Investigator**  
+  Key Research and Development Program of Shandong Province  
+  *Mechanisms and strategies for ecological security of coastal wetlands in the Yellow River Delta*  
+  2022–2023  
+  Grant No. 2022RZB07052
 
 📝 Selected Academic Service
 ======
