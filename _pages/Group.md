@@ -32,14 +32,13 @@ redirect_from:
 <img src="/images/王乃硕.jpg" width="128" height="170" style="object-fit:cover;"><br>
 <b>王乃硕</b>
 </div>
-
 </div>
 
 
 ### 2025级硕士研究生
 
 <div style="display:grid; grid-template-columns:repeat(3, 128px); gap:35px 60px;">
-
+  
 <div style="text-align:center;">
 <img src="/images/吴净轩.png" width="128" height="170" style="object-fit:cover;"><br>
 <b>吴净轩</b>
@@ -59,53 +58,22 @@ redirect_from:
 <img src="/images/刘倍宽.jpg" width="128" height="170" style="object-fit:cover;"><br>
 <b>刘倍宽</b>
 </div>
-
 <div style="text-align:center;">
 <img src="/images/郑可威.jpg" width="128" height="170" style="object-fit:cover;"><br>
 <b>郑可威</b>
 </div>
-
 </div>
 
 
 ### 2024级硕士研究生
 
 <div style="display:grid; grid-template-columns:repeat(3, 128px); gap:35px 60px;">
-
+  
 <div style="text-align:center;">
 <img src="/images/詹贤达.jpg" width="128" height="170" style="object-fit:cover;"><br>
 <b>詹贤达</b>
 </div>
-
 </div>
-
-
-
-## 在读学生
-
-<img src='/images/张欣雨.png' width="128" height="170"><br>
-**张欣雨** (硕士生 2026-) 
-
-<img src='/images/王乃硕.jpg' width="128" height="170"><br>
-**王乃硕** (硕士生 2026-) 
-
-<img src='/images/吴净轩.png' width="128" height="170"><br>
-**吴净轩** (硕士生 2025-) 
-
-<img src='/images/吕文睿.png' width="128" height="170"><br>
-**吕文睿** (硕士生 2025-) 
-
-<img src='/images/徐冲.png' width="128" height="170"><br>
-**徐冲** (硕士生 2025-) 
-
-<img src='/images/刘倍宽.jpg' width="128" height="170"><br>
-**刘倍宽** (硕士生 2025-) 
-
-<img src='/images/郑可威.jpg' width="128" height="170"><br>
-**郑可威** (硕士生 2025-) 
-
-<img src='/images/詹贤达.jpg' width="128" height="170"><br>
-**詹贤达** (硕士生 2024-) 
 
 
 ## 毕业学生
