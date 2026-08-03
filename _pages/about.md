@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 ------
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;海底地质流体活动提供内部驱动力，海洋动力过程提供外部扰动，二者共同控制海床环境变化、沉积物迁移及地质灾害演化。SEA-Fluids研究组围绕海底浅层地质流体与海洋动力过程耦合作用下的海床演化与失稳机制这一核心科学问题，开展深海原位观测、多源探测、实验分析与数值模拟研究。重点关注下伏地质流体迁移与释放、上覆海水动力扰动及沉积物动力响应过程，揭示流体驱动的海床环境变化、稳定性演化及海洋地质灾害形成机制。<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;海底地质流体活动提供内部驱动力，海洋动力过程提供外部扰动，二者共同控制海床环境变化、沉积物迁移及地质灾害演化。<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEA-Fluids研究组围绕海底浅层地质流体与海洋动力过程耦合作用下的海床演化与失稳机制这一核心科学问题，开展深海原位观测、多源探测、实验分析与数值模拟研究。重点关注下伏地质流体迁移与释放、上覆海水动力扰动及沉积物动力响应过程，揭示流体驱动的海床环境变化、稳定性演化及海洋地质灾害形成机制。<br/> 
 
 研究方向
 ======
 ------
 **01 海底流体系统与地质过程 Submarine Fluid Systems and Geological Processes**
 * 海底浅层地质流体是控制海洋环境变化和海床稳定性的重要因素。本方向研究海底流体的赋存、迁移、聚集和释放过程，揭示流体活动对沉积物性质、海床演化及地质灾害形成的影响机制。
-* 主要研究内容：海底浅层流体迁移与渗漏系统（麻坑、泥火山）、气体释放过程与羽状流、流体诱发海床响应与海底滑坡
+* 主要研究内容：海底浅层流体迁移与渗漏系统（麻坑、泥火山等）、气体释放过程与羽状流、流体诱发海床失稳与海底滑坡
 
 ------
 **02 海洋动力过程与海床演化 Ocean Dynamics and Seabed Evolution**
@@ -25,12 +26,15 @@ redirect_from:
 年度新闻遴选🔥🔥🔥🔥
 ======
 ------
-* **2026年07月**, 朱超祁参与成果深海矿产开发工程地质环境原位观测技术与装备获得2025年度[国家技术发明奖二等奖](https://zhuchaoqi.cn/posts/2026/0708/)
-* **2026年04月**, 课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/)
-* **2025年11月**, 李正辉在International Journal of Mining Science and Technology（IF 13.7，1区TOP）发表海底滑坡原创论文，为课题组首篇影响因子＞10的论文
-* **2025年07月**, 朱超祁入选山东省泰山学者青年专家
-* **2024年12月**, 朱超祁领衔的海洋地质灾害研究团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项
-* **2024年08月**, 独立招收第一个研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
+**2026**
+* 07月｜朱超祁参与完成的深海矿产开发工程地质环境原位观测技术与装备获2025年度[国家技术发明奖二等奖](https://zhuchaoqi.cn/posts/2026/0708/)
+* 04月｜课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/)<br/> 
+**2025**
+* 11月｜李正辉在International Journal of Mining Science and Technology（IF 13.7，1区TOP）发表海底滑坡研究论文，为课题组首篇影响因子＞10的论文
+* 07月｜朱超祁入选山东省泰山学者青年专家<br/> 
+**2024**
+* 12月｜朱超祁领衔的海洋地质灾害研究团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项
+* 08月｜独立招收第一个研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
 [**↑ Top**](#Top)
 
 更新: 2026年07月31日
