@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: cv
 title: "Chaoqi Zhu"
 permalink: /cv/
 author_profile: true
