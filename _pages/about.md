@@ -14,8 +14,6 @@ redirect_from:
 <img src="/images/概念图.jpg" width="1000">
 </div>
 
-<br/>
-
 研究方向
 ======
 ------
