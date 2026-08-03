@@ -9,6 +9,12 @@ redirect_from:
 ------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;海底地质流体活动提供内部驱动力，海洋动力过程提供外部扰动，二者共同控制海床环境变化与稳定性演化。<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEA-Fluids课题组围绕海底浅层地质流体与海洋动力过程耦合作用下的海床演化与失稳机制这一核心科学问题，开展深海原位观测、多源探测、实验分析与数值模拟研究。重点关注下伏地质流体迁移与释放、上覆海洋动力扰动及沉积物动力响应过程，揭示流体驱动的海床环境变化、稳定性演化及海洋地质灾害形成机制。<br/> 
+
+<div style="text-align:center; margin:30px 0;">
+<img src="/images/概念图.jpg" 
+     style="width:90%; max-width:1000px; height:auto;">
+</div>
+
 <br/>
 
 研究方向
