@@ -19,74 +19,66 @@ redirect_from:
 
 ## 在读学生
 
+
 ### 2026级硕士研究生
 
-<table>
-<tr>
-<td align="center">
+<div style="display:grid; grid-template-columns:repeat(3, 128px); gap:35px 60px;">
+
+<div style="text-align:center;">
 <img src="/images/张欣雨.png" width="128" height="170"><br>
 <b>张欣雨</b>
-</td>
+</div>
 
-<td align="center">
+<div style="text-align:center;">
 <img src="/images/王乃硕.jpg" width="128" height="170"><br>
 <b>王乃硕</b>
-</td>
+</div>
 
-<td></td>
-</tr>
-</table>
+</div>
 
 
 ### 2025级硕士研究生
 
-<table>
-<tr>
-<td align="center">
+<div style="display:grid; grid-template-columns:repeat(3, 128px); gap:35px 60px;">
+
+<div style="text-align:center;">
 <img src="/images/吴净轩.png" width="128" height="170"><br>
 <b>吴净轩</b>
-</td>
+</div>
 
-<td align="center">
+<div style="text-align:center;">
 <img src="/images/吕文睿.png" width="128" height="170"><br>
 <b>吕文睿</b>
-</td>
+</div>
 
-<td align="center">
+<div style="text-align:center;">
 <img src="/images/徐冲.png" width="128" height="170"><br>
 <b>徐冲</b>
-</td>
-</tr>
+</div>
 
-<tr>
-<td align="center">
+<div style="text-align:center;">
 <img src="/images/刘倍宽.jpg" width="128" height="170"><br>
 <b>刘倍宽</b>
-</td>
+</div>
 
-<td align="center">
+<div style="text-align:center;">
 <img src="/images/郑可威.jpg" width="128" height="170"><br>
 <b>郑可威</b>
-</td>
+</div>
 
-<td></td>
-</tr>
-</table>
+</div>
 
 
 ### 2024级硕士研究生
 
-<table>
-<tr>
-<td align="center">
+<div style="display:grid; grid-template-columns:repeat(3, 128px); gap:35px 60px;">
+
+<div style="text-align:center;">
 <img src="/images/詹贤达.jpg" width="128" height="170"><br>
 <b>詹贤达</b>
-</td>
+</div>
 
-<td></td>
-<td></td>
-</tr>
-</table>
+</div>
 
 
 
