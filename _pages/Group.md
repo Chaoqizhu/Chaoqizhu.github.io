@@ -27,7 +27,6 @@ redirect_from:
 <div style="width:128px;height:170px;overflow:hidden;">
 <img src="/images/张欣雨.png" style="width:128px;height:170px;object-fit:cover;">
 </div>
-<br>
 <b>张欣雨</b>
 </div>
 
@@ -35,7 +34,6 @@ redirect_from:
 <div style="width:128px;height:170px;overflow:hidden;">
 <img src="/images/王乃硕.jpg" style="width:128px;height:170px;object-fit:cover;">
 </div>
-<br>
 <b>王乃硕</b>
 </div>
 
@@ -50,7 +48,6 @@ redirect_from:
 <div style="width:128px;height:170px;overflow:hidden;">
 <img src="/images/吴净轩.png" style="width:128px;height:170px;object-fit:cover;">
 </div>
-<br>
 <b>吴净轩</b>
 </div>
 
@@ -58,7 +55,6 @@ redirect_from:
 <div style="width:128px;height:170px;overflow:hidden;">
 <img src="/images/吕文睿.png" style="width:128px;height:170px;object-fit:cover;">
 </div>
-<br>
 <b>吕文睿</b>
 </div>
 
@@ -66,7 +62,6 @@ redirect_from:
 <div style="width:128px;height:170px;overflow:hidden;">
 <img src="/images/徐冲.png" style="width:128px;height:170px;object-fit:cover;">
 </div>
-<br>
 <b>徐冲</b>
 </div>
 
@@ -74,7 +69,6 @@ redirect_from:
 <div style="width:128px;height:170px;overflow:hidden;">
 <img src="/images/刘倍宽.jpg" style="width:128px;height:170px;object-fit:cover;">
 </div>
-<br>
 <b>刘倍宽</b>
 </div>
 
@@ -82,7 +76,6 @@ redirect_from:
 <div style="width:128px;height:170px;overflow:hidden;">
 <img src="/images/郑可威.jpg" style="width:128px;height:170px;object-fit:cover;">
 </div>
-<br>
 <b>郑可威</b>
 </div>
 
@@ -97,7 +90,6 @@ redirect_from:
 <div style="width:128px;height:170px;overflow:hidden;">
 <img src="/images/詹贤达.jpg" style="width:128px;height:170px;object-fit:cover;">
 </div>
-<br>
 <b>詹贤达</b>
 </div>
 
