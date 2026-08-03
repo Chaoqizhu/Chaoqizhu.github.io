@@ -78,7 +78,8 @@ Identifying intermittent and quasi-periodic gas release processes at continental
 * National Natural Science Foundation of China (NSFC)
 * Research projects on submarine fluid systems, marine geohazards, and seabed evolution
 
-📝 Selected Editorial Activities
+
+📝 Selected Academic Service
 ======
 ------
 * **Editor-in-Chief**, [Journal of Marine Environmental Engineering](https://www.oldcitypublishing.com/journals/jmee-home/)
@@ -91,7 +92,6 @@ Identifying intermittent and quasi-periodic gas release processes at continental
 * **Guest Editor**, [Journal of Marine Science and Engineering ](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors)
 * **Guest Editor**, [Water](https://www.mdpi.com/journal/water/special_issues/sediment_dynamics) 
 * **Guest Editor**, [Environmental Geotechnics](https://www.icevirtuallibrary.com/toc/jenge/10/3) 
-
 
 
 📝 Selected Awards and Recognition
