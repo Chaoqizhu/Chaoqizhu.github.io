@@ -9,6 +9,12 @@ redirect_from:
 ## **<font color='red'>S</font>**eabed **<font color='red'>E</font>**volution **<font color='red'>A</font>**ffected by **<font color='red'>Fluids</font>** (SEA-Fluids)
 围绕海底下伏地质流体与上覆海洋动力过程耦合作用下的海床演化与失稳机制，开展深海原位观测、多源探测、实验分析与数值模拟研究。
 
+## 课题组负责人
+<img src='/images/Chaoqi zhu profile.jpg' width="128" height="170"><br>
+**张欣雨** (硕士生 2026-) 
+
+
+
 ## 在读学生
 <img src='/images/张欣雨.png' width="128" height="170"><br>
 **张欣雨** (硕士生 2026-) 
