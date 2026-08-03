@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 ------
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;海底地质流体活动提供内部驱动力，海洋动力过程提供外部扰动，二者共同控制海床环境变化、沉积物迁移及地质灾害演化。<br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEA-Fluids研究组围绕海底浅层地质流体与海洋动力过程耦合作用下的海床演化与失稳机制这一核心科学问题，开展深海原位观测、多源探测、实验分析与数值模拟研究。重点关注下伏地质流体迁移与释放、上覆海水动力扰动及沉积物动力响应过程，揭示流体驱动的海床环境变化、稳定性演化及海洋地质灾害形成机制。<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;海底地质流体活动提供内部驱动力，海洋动力过程提供外部扰动，二者共同控制海床环境变化与稳定性演化。<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEA-Fluids课题组围绕海底浅层地质流体与海洋动力过程耦合作用下的海床演化与失稳机制这一核心科学问题，开展深海原位观测、多源探测、实验分析与数值模拟研究。重点关注下伏地质流体迁移与释放、上覆海洋动力扰动及沉积物动力响应过程，揭示流体驱动的海床环境变化、稳定性演化及海洋地质灾害形成机制。<br/> 
 <br/>
 
 研究方向
@@ -37,7 +37,7 @@ redirect_from:
   
 **2024**
 * 12月｜朱超祁领衔的海洋地质灾害研究团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项
-* 08月｜独立招收第一个研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
+* 08月｜独立招收首名研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
 
 [**↑ Top**](#Top)
 
