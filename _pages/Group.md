@@ -22,7 +22,7 @@ redirect_from:
 </div>
 </div>
 
-## 在读学生
+## 在读学生（8人）
 
 ### 2026级硕士研究生
 
@@ -101,7 +101,7 @@ redirect_from:
 </div>
 
 
-## 毕业学生
+## 毕业学生（4人）
 
 <div style="display:flex; align-items:flex-start; margin-bottom:35px;">
   <img src="/images/冯学志.jpg" width="128" height="170" style="margin-right:25px;">
