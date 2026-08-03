@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Chaoqi Zhu is an Associate Professor at Ocean University of China and the founder of the **SEA-Fluids Research Group (Seabed Evolution Affected by Fluids)**. His research focuses on how oceanic and subsurface fluids shape seabed evolution and marine geohazards.
+I am an Associate Professor at Ocean University of China and the founder of the **SEA-Fluids Research Group (Seabed Evolution Affected by Fluids)**. My research explores **how oceanic and subsurface fluid processes regulate seabed evolution and marine geohazards**.
 
-His research lies at the interface of **marine engineering geology, ocean dynamics, and sedimentary processes**. By integrating deep-sea observations, geophysical exploration, laboratory experiments, and numerical simulations, his group investigates the coupling between fluid migration, ocean forcing, sediment response, and seafloor instability.
+My research lies at the interface of **marine engineering geology, ocean dynamics, and sedimentary processes**. By integrating deep-sea observations, geophysical exploration, laboratory experiments, and numerical simulations, my group investigates the coupling between fluid migration, ocean forcing, sediment response, and seafloor instability.
 
-Together with students and collaborators, he studies how internal waves, storms, and subsurface fluids regulate seabed evolution across different spatial and temporal scales. Research interests include submarine fluid systems, methane seepage, typhoon-induced benthic storms, sediment resuspension, and submarine landslides.
+Together with students and collaborators, I study how internal waves, storms, and subsurface fluids regulate seabed evolution across different spatial and temporal scales. Research interests include submarine fluid systems, methane seepage, typhoon-induced benthic storms, sediment resuspension, and submarine landslides.
 
-Through multidisciplinary observations and modeling, his research aims to reveal the mechanisms linking fluid processes to marine environmental changes and geohazards, providing new perspectives for understanding the dynamic evolution of the seafloor.
+Through multidisciplinary observations and modeling, my research aims to reveal the mechanisms linking fluid processes to marine environmental changes and geohazards, providing new perspectives for understanding the dynamic evolution of the seafloor.
 
 If you are interested in marine fluids, seabed evolution, and deep-sea geohazards, feel free to contact me for potential collaborations and research opportunities.
 
@@ -31,37 +31,34 @@ If you are interested in marine fluids, seabed evolution, and deep-sea geohazard
 * **Founder and Principal Investigator**  
   SEA-Fluids Research Group
 
-* **Research Scientist (Part-time)**  
-  Qingdao Marine Science and Technology Center  
-  (former Qingdao National Laboratory for Marine Science and Technology)
+* **Leader**, Marine Geohazard Innovation Team  
+  Young Innovation Team Program of Shandong Provincial Universities
 
 * **Taishan Scholar** <br/> 
   Shandong Province, China
 
-* **Leader**, Marine Geohazard Innovation Team  
-  Young Innovation Team Program of Shandong Provincial Universities
-
 * **Selected Young Elite Scientist**  
   China Association for Science and Technology (CAST)
 
+* **Research Scientist (Part-time)**  
+  Qingdao Marine Science and Technology Center  
+  (former Qingdao National Laboratory for Marine Science and Technology)
+  
   <br/> 
 
 
-🔬 Research Highlights
+🔬 Research Themes
 ======
 ------
+**Fluid-driven seabed evolution and instability**
+Understanding how subsurface fluids, pore-pressure changes, and hydrate-related processes regulate seabed stability.
 
-**Internal solitary waves and methane release**
-Investigating how internal solitary waves trigger episodic methane release and influence carbon cycling and seabed environments on continental margins.
+**Ocean forcing and sediment dynamics**
+Investigating how internal waves, storms, and ocean circulation drive sediment resuspension and benthic environmental changes.
 
-**Submarine fluid systems and seabed instability**
-Exploring how subsurface fluid migration, pore-pressure evolution, and hydrate-related processes regulate submarine slope stability.
+**Episodic submarine fluid and gas release**
+Revealing the mechanisms and consequences of intermittent methane seepage and submarine gas migration.
 
-**Typhoon-induced benthic storms**
-Revealing how extreme atmospheric forcing transfers energy into deep-sea environments and drives sediment resuspension.
-
-**Geyser-like submarine gas release**
-Identifying intermittent and quasi-periodic gas release processes at continental shelf breaks through acoustic observations.
 
 <br/> 
 
@@ -107,7 +104,7 @@ Identifying intermittent and quasi-periodic gas release processes at continental
 
 * **Principal Investigator**  
   National Natural Science Foundation of China (NSFC)  
-  *Fluid migration and its influence on seabed stability during gas hydrate dissociation in deep sea*  
+  *Fluid migration and its influence on seabed stability during deep-sea gas hydrate dissociation*  
   2023–2025  
   Grant No. 42207173
 
@@ -134,10 +131,7 @@ Identifying intermittent and quasi-periodic gas release processes at continental
 * Editorial Board Member, [Thalassas: An International Journal of Marine Sciences](https://link.springer.com/journal/41208)
 * Editorial Board Member, [Geoenvironmental Disasters](https://geoenvironmental-disasters.springeropen.com/)
 * Youth Editorial Board Member, [China Geology](https://www.sciencedirect.com/journal/china-geology)
-* Guest Editor, [Energy Reports](https://www.sciencedirect.com/journal/energy-reports/special-issue/10LNPQPBFC5)
-* Guest Editor, [Journal of Marine Science and Engineering ](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors)
-* Guest Editor, [Water](https://www.mdpi.com/journal/water/special_issues/sediment_dynamics) 
-* Guest Editor, [Environmental Geotechnics](https://www.icevirtuallibrary.com/toc/jenge/10/3)
+* Guest Editor, [Energy Reports](https://www.sciencedirect.com/journal/energy-reports/special-issue/10LNPQPBFC5), [Journal of Marine Science and Engineering ](https://www.mdpi.com/journal/jmse/special_issues/3V20M0H7MX#editors), [Water](https://www.mdpi.com/journal/water/special_issues/sediment_dynamics), [Environmental Geotechnics](https://www.icevirtuallibrary.com/toc/jenge/10/3)
 
 <br/> 
 
@@ -145,7 +139,7 @@ Identifying intermittent and quasi-periodic gas release processes at continental
 📝 Selected Awards and Recognition
 ======
 ------
-* 2025, Second Prize for National Science and Technology Invention Award, China
+* 2025, Second Prize of the National Science and Technology Invention Award, China
 * 2023, First Prize for Technological Invention, Ministry of Education, China
 * 2022, National Young Elite Scientists, China Association for Science and Technology
 * 2021, China's Top Ten Geological Science and Technology Advances, Geological Society of China
