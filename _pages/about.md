@@ -33,7 +33,8 @@ redirect_from:
   
 **2025**
 * 11月｜李正辉在International Journal of Mining Science and Technology（IF 13.7，1区TOP）发表海底滑坡研究论文，为课题组首篇影响因子＞10的论文
-* 07月｜朱超祁入选山东省泰山学者青年专家 <br/> 
+* 07月｜朱超祁入选山东省泰山学者青年专家 <br/>
+  
 **2024**
 * 12月｜朱超祁领衔的海洋地质灾害研究团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项
 * 08月｜独立招收第一个研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
