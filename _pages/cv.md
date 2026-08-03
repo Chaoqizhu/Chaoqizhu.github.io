@@ -76,11 +76,11 @@ Identifying intermittent and quasi-periodic gas release processes at continental
 
 3. Zhu, C., Jiao, X., Cheng, S., Li, Q., Liu, K., Shan, H., Li, C., Jia, Y. (2023).  Visualizing fluid migration due to hydrate dissociation: Implications for submarine slides.  *Environmental Geotechnics*, 10(3), 218–226.
 
-4. Zhu, C., Li, S., Chen, J., Wang, D., Song, X., Li, Z., Chen, B., Shan, H., Jia, Y. (2023).  Nepheloid layer generation by gas eruption: Unexpected experimental results.  *Journal of Oceanology and Limnology*, 41(2), 769–777.
+4. Zhu, C., Li, S., Chen, J., Wang, D., Song, X., Li, Z., Chen, B., Shan, H., Jia, Y. (2023).  Nepheloid layer generation by gas eruption: Unexpected experimental results.  *Journal of Oceanology and Limnology*, 41(2), 769–777. ([Featured in EOS, Earth & Space Science News](https://eos.org/articles/scientists-discover-a-way-of-forming-suspended-layers-of-sediment))
 
-5. Zhu, C., Li, Z., Chen, D., Li, S., Song, X., Shan, H., Jia, Y. (2021).  Seafloor breathing helping forecast hydrate-related geohazards.  *Energy Reports*, 7, 8108–8114.
+5. Zhu, C., Li, Z., Chen, D., Li, S., Song, X., Shan, H., Jia, Y. (2021).  Seafloor breathing helping forecast hydrate-related geohazards.  *Energy Reports*, 7, 8108–8114. ([Featured in EOS, Earth & Space Science News](https://eos.org/articles/forecasting-geohazards-in-the-age-of-gas-hydrate-exploitation))
 
-6. Zhu, C., Cheng, S., Li, Q., Shan, H., Lu, J., Shen, Z., Liu, X., Jia, Y. (2019).  Giant submarine landslide in the South China Sea: Evidence, causes and implications.  *Journal of Marine Science and Engineering*, 7(5), 152.
+6. Zhu, C., Cheng, S., Li, Q., Shan, H., Lu, J., Shen, Z., Liu, X., Jia, Y. (2019).  Giant submarine landslide in the South China Sea: Evidence, causes and implications.  *Journal of Marine Science and Engineering*, 7(5), 152. ([Featured in Landslide Blog](https://blogs.agu.org/landslideblog/2019/05/29/baiyun-liwan-submarine-slide/))
 
 7. Zhu, C., Liu, X., Shan, H., Zhang, H., Shen, Z., Zhang, B., Jia, Y. (2018).  Properties of suspended sediment concentrations in the Yellow River delta based on observation.  *Marine Georesources & Geotechnology*, 36(1), 139–149.
 
