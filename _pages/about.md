@@ -28,10 +28,10 @@ redirect_from:
 ------
 **2026**
 * 07月｜朱超祁参与完成的深海矿产开发工程地质环境原位观测技术与装备获2025年度[国家技术发明奖二等奖](https://zhuchaoqi.cn/posts/2026/0708/)
-* 04月｜课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/) 
+* 04月｜课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/)<br/>  
 **2025**
 * 11月｜李正辉在International Journal of Mining Science and Technology（IF 13.7，1区TOP）发表海底滑坡研究论文，为课题组首篇影响因子＞10的论文
-* 07月｜朱超祁入选山东省泰山学者青年专家 
+* 07月｜朱超祁入选山东省泰山学者青年专家 <br/> 
 **2024**
 * 12月｜朱超祁领衔的海洋地质灾害研究团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项
 * 08月｜独立招收第一个研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
