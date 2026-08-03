@@ -101,27 +101,5 @@ redirect_from:
   </div>
 </div>
 
-
-## 毕业学生
-<img src='/images/冯学志.jpg' width="128" height="170"><br>
-**[冯学志](https://www.researchgate.net/profile/Xuezhi-Feng-3)** (博士 2020-2025) (与贾永刚教授共同指导)
-* 学位论文: 南海神狐海域内孤立波对海底作用过程研究  <br>
-* 毕业去向: 山东生态环境学院
-
-<img src='/images/王林森.jpg' width="128" height="170"><br>
-**[王林森](https://www.researchgate.net/profile/Linsen-Wang)** (博士 2020-2025) (与贾永刚教授共同指导)
-* 学位论文: 自由下落式触探技术（FFCPT）确定海底沉积物强度与类型研究  <br>
-* 毕业去向: 中建八局
-  
-<img src='/images/李正辉.jpg' width="128" height="170"><br>
-**[李正辉](https://www.researchgate.net/profile/Zhenghui_Li10)** (博士 2019-2023) (与贾永刚教授共同指导)  <br>
-* 学位论文: 南海北部陆坡海底滑坡触发机制研究  <br>
-* 毕业去向: 中国地质调查局武汉地调中心
-
-<img src='/images/宋晓帅.jpg' width="128" height="170"><br>
-**[宋晓帅](https://www.researchgate.net/profile/Xiaoshuai-Song)** (博士 2018-2022) (与贾永刚教授共同指导)  <br>
-* 学位论文: 南海北部蠕变区海底变形过程及控制因素研究  <br>
-* 毕业去向: 招远市人民政府 <br>
-
 ## 加入SEA-Fluids
 SEA-Fluids课题组欢迎具有海洋科学、地质学、地球物理、土木工程、计算科学、环境科学等背景的学生加入。
