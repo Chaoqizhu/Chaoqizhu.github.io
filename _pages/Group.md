@@ -1,6 +1,6 @@
 ---
 permalink: /group/
-title: "SEA-Fluids 流体驱动海床演化与失稳"
+title: "SEA-Fluids 课题组"
 author_profile: true
 redirect_from: 
   - /md/
