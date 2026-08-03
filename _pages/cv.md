@@ -34,7 +34,7 @@ If you are interested in marine fluids, seabed evolution, and deep-sea geohazard
   Qingdao Marine Science and Technology Center  
   (former Qingdao National Laboratory for Marine Science and Technology)
 
-* **Taishan Scholar**  
+* **Taishan Scholar** <br/> 
   Shandong Province, China
 
 * **Leader**
