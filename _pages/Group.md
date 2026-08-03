@@ -19,7 +19,6 @@ redirect_from:
 
 ## 在读学生
 
-
 ### 2026级硕士研究生
 
 <div style="display:grid; grid-template-columns:repeat(3, 128px); gap:35px 60px;">
@@ -103,10 +102,6 @@ redirect_from:
 </div>
 
 </div>
-
-
-
-
 
 
 ### 2026级硕士研究生
