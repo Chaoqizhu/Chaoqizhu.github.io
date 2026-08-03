@@ -21,7 +21,7 @@ redirect_from:
 **02 海洋动力过程与海床演化 Ocean Dynamics and Seabed Evolution**
 * 海洋动力过程通过改变海床边界层环境，调控沉积物运动和海底环境演变。本方向研究内孤立波、台风等动力过程与海床相互作用机制，揭示动力扰动下沉积物输运、再悬浮及海床稳定性变化规律。
 * 主要研究内容：内孤立波与深海动力过程、台风驱动底边界层响应、沉积物再悬浮与输运、海床地貌与稳定性演化<br/> 
-
+<br/>
 
 年度新闻遴选🔥🔥🔥🔥
 ======
@@ -35,6 +35,7 @@ redirect_from:
 **2024**
 * 12月｜朱超祁领衔的海洋地质灾害研究团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项
 * 08月｜独立招收第一个研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
+
 [**↑ Top**](#Top)
 
 更新: 2026年07月31日
