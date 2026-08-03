@@ -3,5 +3,8 @@ main:
   - title: "课题组"
     url: /group/
         
+  - title: "新闻"
+    url: /news/
+ 
   - title: "相册"
     url: /year-archive/
