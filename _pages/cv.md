@@ -11,7 +11,7 @@ redirect_from:
 
 Chaoqi Zhu is an Associate Professor at Ocean University of China and the founder of the **SEA-Fluids Research Group (Seabed Evolution Affected by Fluids)**. His research focuses on how oceanic and subsurface fluids shape seabed evolution and marine geohazards.
 
-His research lies at the interface of **marine geodynamics, ocean dynamics, and sedimentary processes**. By integrating deep-sea observations, geophysical exploration, laboratory experiments, and numerical simulations, his group investigates the coupling between fluid migration, ocean forcing, sediment response, and seafloor instability.
+His research lies at the interface of **marine engineering geology, ocean dynamics, and sedimentary processes**. By integrating deep-sea observations, geophysical exploration, laboratory experiments, and numerical simulations, his group investigates the coupling between fluid migration, ocean forcing, sediment response, and seafloor instability.
 
 Together with students and collaborators, he studies how internal waves, storms, and subsurface fluids regulate seabed evolution across different spatial and temporal scales. Research interests include submarine fluid systems, methane seepage, typhoon-induced benthic storms, sediment resuspension, and submarine landslides.
 
@@ -38,7 +38,7 @@ If you are interested in marine fluids, seabed evolution, and deep-sea geohazard
 * **Taishan Scholar** <br/> 
   Shandong Province, China
 
-** **Leader**, Marine Geohazard Innovation Team  
+* **Leader**, Marine Geohazard Innovation Team  
   Young Innovation Team Program of Shandong Provincial Universities
 
 * **Selected Young Elite Scientist**  
@@ -74,7 +74,7 @@ Identifying intermittent and quasi-periodic gas release processes at continental
 <br/> 
  
 
-📝 Selected Publications (First-author and corresponding-author contributions)
+📝 Selected Publications (First and corresponding-author contributions)
 ======
 ------
 1. Zhu, C., Peng, J., Jia, Y. (2023).  Marine geohazards: Past, present, and future.  *Engineering Geology*, 323, 107230.
