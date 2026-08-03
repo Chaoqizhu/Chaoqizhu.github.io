@@ -11,8 +11,7 @@ redirect_from:
      style="width:260px; height:auto;">
 </div>
 
-## **<font color='red'>S</font>**eabed **<font color='red'>E</font>**volution **<font color='red'>A</font>**ffected by **<font color='red'>Fluids</font>** (SEA-Fluids)
-**SEA-Fluids研究组致力于探索海底流体与海洋动力过程如何共同影响海床演化与失稳**。
+## SEA-Fluids研究组致力于探索海底流体与海洋动力过程如何共同影响海床演化与失稳
 
 ## 课题组负责人
 <div style="display:flex; align-items:flex-start; margin-bottom:30px;">
