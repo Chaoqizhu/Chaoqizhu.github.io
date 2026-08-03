@@ -11,7 +11,7 @@ redirect_from:
      style="width:260px; height:auto;">
 </div>
 
-## SEA-Fluids研究组致力于探索海底流体与海洋动力过程如何共同影响海床演化与失稳
+## 致力于探索海底流体与海洋动力过程如何共同影响海床演化与失稳
 
 ## 课题组负责人
 <div style="display:flex; align-items:flex-start; margin-bottom:30px;">
