@@ -44,6 +44,44 @@ redirect_from:
 **詹贤达** (硕士生 2024-) 
 
 
+## 毕业学生
+
+<div style="display:flex; align-items:flex-start; margin-bottom:35px;">
+  <img src="/images/冯学志.jpg" width="128" height="170" style="margin-right:25px;">
+  <div>
+    <b><a href="https://www.researchgate.net/profile/Xuezhi-Feng-3">冯学志</a></b><br>
+    博士（2020-2025）<br>
+    与贾永刚教授共同指导<br><br>
+    <b>学位论文：</b>南海神狐海域内孤立波对海底作用过程研究<br>
+    <b>毕业去向：</b>山东生态环境学院
+  </div>
+</div>
+
+
+<div style="display:flex; align-items:flex-start; margin-bottom:35px;">
+  <img src="/images/王林森.jpg" width="128" height="170" style="margin-right:25px;">
+  <div>
+    <b><a href="https://www.researchgate.net/profile/Linsen-Wang">王林森</a></b><br>
+    博士（2020-2025）<br>
+    与贾永刚教授共同指导<br><br>
+    <b>学位论文：</b>自由下落式触探技术（FFCPT）确定海底沉积物强度与类型研究<br>
+    <b>毕业去向：</b>中建八局
+  </div>
+</div>
+
+
+<div style="display:flex; align-items:flex-start; margin-bottom:35px;">
+  <img src="/images/李正辉.jpg" width="128" height="170" style="margin-right:25px;">
+  <div>
+    <b><a href="https://www.researchgate.net/profile/Zhenghui_Li10">李正辉</a></b><br>
+    博士（2019-2023）<br>
+    与贾永刚教授共同指导<br><br>
+    <b>学位论文：</b>南海北部陆坡海底滑坡触发机制研究<br>
+    <b>毕业去向：</b>中国地质调查局武汉地调中心
+  </div>
+</div>
+
+
 <div style="display:flex; align-items:flex-start; margin-bottom:35px;">
   <img src="/images/宋晓帅.jpg" width="128" height="170" style="margin-right:25px;">
   <div>
