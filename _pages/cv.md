@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+**Chaoqi Zhu**
+My name is Chaoqi Zhu and I am an Associate Professor at Ocean University of China. I lead the SEA-Fluids Research Group (Seabed Evolution Affected by Fluids), focusing on how oceanic and subsurface fluids shape seabed evolution and marine geohazards.
+
+My research lies at the interface of marine geodynamics, ocean dynamics, and sedimentary processes. By integrating deep-sea observations, geophysical exploration, laboratory experiments, and numerical simulations, my group investigates the coupling between fluid migration, ocean forcing, sediment response, and seafloor instability.
+
+Together with students and collaborators, we study how internal waves, storms, and subsurface fluids regulate seabed evolution across different spatial and temporal scales. Our research interests include submarine fluid systems, methane seepage, typhoon-induced benthic storms, sediment resuspension, and submarine landslides.
+
+Through multidisciplinary observations and modeling, we aim to reveal the mechanisms linking fluid processes to marine environmental changes and geohazards, providing new perspectives for understanding the dynamic evolution of the seafloor.
+
+If you are interested in marine fluids, seabed evolution, and deep-sea geohazards, feel free to contact me for potential collaborations and research opportunities.
+
 🎓 Education
 ======
 ------
