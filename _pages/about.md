@@ -33,16 +33,16 @@ redirect_from:
 ======
 ------
 **2026年**<br/>
-**07月**｜朱超祁参与完成的深海矿产开发工程地质环境原位观测技术与装备获2025年度[国家技术发明奖二等奖](https://zhuchaoqi.cn/posts/2026/0708/)<br/>
-**04月**｜课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/) <br/>
+* **07月**｜朱超祁参与完成的深海矿产开发工程地质环境原位观测技术与装备获2025年度[国家技术发明奖二等奖](https://zhuchaoqi.cn/posts/2026/0708/)<br/>
+* **04月**｜课题组研发装备登上[央视1套《新闻联播》](https://zhuchaoqi.cn/posts/2026/04/10/) <br/>
   
 **2025年**<br/>
-**11月**｜李正辉在International Journal of Mining Science and Technology（IF 13.7，1区TOP）发表[海底滑坡研究论文](https://mp.weixin.qq.com/s/nKKz8Sb4dOr5Mhtc9MHjTw)，为课题组首篇影响因子＞10的论文<br/>
-**07月**｜朱超祁入选山东省泰山学者青年专家 <br/>
+* **11月**｜李正辉在International Journal of Mining Science and Technology（IF 13.7，1区TOP）发表[海底滑坡研究论文](https://mp.weixin.qq.com/s/nKKz8Sb4dOr5Mhtc9MHjTw)，为课题组首篇影响因子＞10的论文<br/>
+* **07月**｜朱超祁入选山东省泰山学者青年专家 <br/>
   
 **2024年**<br/>
-**12月**｜朱超祁领衔的海洋地质灾害研究团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项<br/>
-**08月**｜独立招收首名研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
+* **12月**｜朱超祁领衔的海洋地质灾害研究团队获得[山东省高校青年创新团队](https://mp.weixin.qq.com/s/Cn_ZofcbP6fJw2_qZsgL6Q)立项<br/>
+* **08月**｜独立招收首名研究生-[詹贤达](https://mp.weixin.qq.com/s/h3vlFW0WnAtPoySEiThseQ?poc_token=HFEZcGqjGM_KCc__8FhkdbQHScRLbiVUu_DKDJT_) <br>
 
 ------
 SEA-Fluids课题组欢迎校内外同行开展学术交流与合作，欢迎校内外优秀学生报考，共同开展海底流体、海洋动力过程及海床演化相关研究。
