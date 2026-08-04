@@ -11,7 +11,7 @@ redirect_from:
      style="width:260px; height:auto;">
 </div>
 
-## 致力于揭示海底地质流体与海洋流体动力作用驱动海床演化与失稳的机制
+## 探索海底地质流体与海洋流体动力作用驱动海床演化与失稳的机制
 
 ## 课题组负责人
 <div style="display:flex; align-items:flex-start; margin-bottom:30px;">
@@ -21,7 +21,7 @@ redirect_from:
 </div>
 </div>
 
-## 在读学生（8人）
+## 团队成员（8人）
 
 ### 2026级硕士研究生
 
@@ -150,4 +150,4 @@ redirect_from:
 </div>
 
 ## 加入SEA-Fluids
-SEA-Fluids课题组欢迎具有海洋科学、地质学、地球物理、土木工程、计算科学、环境科学等背景的学生加入。
+SEA-Fluids课题组致力于培养和汇聚具有海洋科学、地质学、地球物理及工程背景的青年研究者，共同探索流体作用下海床演化与海洋地质灾害机制。
