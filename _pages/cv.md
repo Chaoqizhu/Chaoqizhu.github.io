@@ -51,23 +51,19 @@ Through multidisciplinary observations and modeling, we seek to advance understa
 🔬 Recent Research Themes
 ======
 ------
-**01 Submarine Geological Fluid Systems**
-Subsurface geological fluids play a fundamental role in shaping seabed environments and stability. This theme investigates the occurrence, migration, accumulation, and release of submarine fluids, and their impacts on sediment properties, seabed evolution, and marine geohazards.
-**Research interests:**  
-Submarine fluid migration · Methane seepage · Gas hydrate systems · Pore-pressure evolution · Fluid-induced seabed instability
-
+**01 Submarine Geological Fluid Systems**<br/>
+Subsurface geological fluids play a fundamental role in shaping seabed environments and stability. This theme investigates the occurrence, migration, accumulation, and release of submarine fluids, and their impacts on sediment properties, seabed evolution, and marine geohazards.<br/>
+**Research interests:**  Submarine fluid migration · Methane seepage · Gas hydrate systems · Pore-pressure evolution · Fluid-induced seabed instability
 <br/>
 
-**02 Oceanic Fluid Dynamics and Sediment Response**
-Oceanic fluid motions regulate seabed environments through hydrodynamic forcing and sediment redistribution. This theme investigates how internal waves, storms, and ocean circulation influence benthic boundary layers, sediment resuspension, transport, and seabed evolution.
+**02 Oceanic Fluid Dynamics and Sediment Response**<br/>
+Oceanic fluid motions regulate seabed environments through hydrodynamic forcing and sediment redistribution. This theme investigates how internal waves, storms, and ocean circulation influence benthic boundary layers, sediment resuspension, transport, and seabed evolution<br/>
 **Research interests:** Internal solitary waves · Typhoon-driven benthic storms · Bottom boundary layers · Sediment resuspension · Sediment transport
-
 <br/>
 
-**03 Fluid-driven Seabed Instability and Marine Geohazards**
-Fluid processes can modify seabed mechanical behavior and contribute to marine geohazards. This theme focuses on the mechanisms of submarine landslides, sediment instability, and hazard evolution through observations, experiments, and numerical modeling.
+**03 Fluid-driven Seabed Instability and Marine Geohazards**<br/>
+Fluid processes can modify seabed mechanical behavior and contribute to marine geohazards. This theme focuses on the mechanisms of submarine landslides, sediment instability, and hazard evolution through observations, experiments, and numerical modeling.<br/>
 **Research interests:** Submarine landslides · Sediment failure · Seafloor deformation · Marine geohazard assessment
-
 <br/> 
 
 🎓 Education
