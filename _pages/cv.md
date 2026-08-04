@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-I am an Associate Professor at Ocean University of China and the founder of the SEA-Fluids Research Group. My research explores how **submarine fluids and ocean dynamics regulate seabed evolution, environmental changes, and marine geohazards**.
+I am an Associate Professor at Ocean University of China and the founder of the SEA-Fluids Research Group (*Seabed Evolution Affected by Fluids*). My research explores how **fluid processes regulate seabed evolution, environmental changes, and marine geohazards**.
 
-The seafloor is a dynamic interface where geological processes and ocean processes interact across multiple spatial and temporal scales. My group investigates how subsurface fluid activities, ocean forcing, and sediment responses shape seabed environments and influence seafloor stability.
+The seafloor is a dynamic interface shaped by fluid processes from both within and above the seabed. My group investigates how **subsurface geological fluids, oceanic fluid dynamics, and sedimentary processes** govern seabed evolution and influence seafloor stability across different spatial and temporal scales.
 
-By integrating **deep-sea observations, geophysical exploration, laboratory experiments, and numerical simulations**, we aim to reveal the mechanisms controlling fluid migration, sediment transport, seabed deformation, and marine geological hazards.
+By integrating **deep-sea observations, geophysical exploration, laboratory experiments, and numerical simulations**, we aim to reveal the mechanisms controlling fluid migration, sediment dynamics, seabed deformation, and marine geohazard evolution.
 
-Our research spans submarine fluid systems, methane seepage, hydrate-related processes, internal waves, typhoon-driven benthic storms, sediment resuspension, and submarine landslides.
+Our research spans submarine fluid systems, methane seepage, gas hydrate-related processes, internal waves, typhoon-driven benthic storms, sediment resuspension, and submarine landslides.
 
-Through multidisciplinary approaches, we seek to advance understanding of the dynamic evolution of the seafloor and provide new insights into marine environmental change and geohazard assessment.
+Through multidisciplinary observations and modeling, we seek to advance understanding of the dynamic evolution of the seafloor and provide new insights into marine environmental change and geohazard assessment.
+
 
 <br/> 
 
@@ -50,14 +51,34 @@ Through multidisciplinary approaches, we seek to advance understanding of the dy
 🔬 Recent Research Themes
 ======
 ------
-**Fluid-driven seabed evolution and instability**
-Understanding how subsurface fluids, pore-pressure changes, and hydrate-related processes regulate seabed stability.
+**01 Submarine Geological Fluid Systems**
 
-**Ocean forcing and sediment dynamics**
-Investigating how internal waves, storms, and ocean circulation drive sediment resuspension and benthic environmental changes.
+Subsurface geological fluids play a fundamental role in shaping seabed environments and stability. This theme investigates the occurrence, migration, accumulation, and release of submarine fluids, and their impacts on sediment properties, seabed evolution, and marine geohazards.
 
-**Episodic submarine fluid and gas release**
-Revealing the mechanisms and consequences of intermittent methane seepage and submarine gas migration.
+**Research interests:**  
+Submarine fluid migration · Methane seepage · Gas hydrate systems · Pore-pressure evolution · Fluid-induced seabed instability
+
+
+<br/>
+
+
+**02 Oceanic Fluid Dynamics and Sediment Response**
+
+Oceanic fluid motions regulate seabed environments through hydrodynamic forcing and sediment redistribution. This theme investigates how internal waves, storms, and ocean circulation influence benthic boundary layers, sediment resuspension, transport, and seabed evolution.
+
+**Research interests:**  
+Internal solitary waves · Typhoon-driven benthic storms · Bottom boundary layers · Sediment resuspension · Sediment transport
+
+
+<br/>
+
+
+**03 Fluid-driven Seabed Instability and Marine Geohazards**
+
+Fluid processes can modify seabed mechanical behavior and contribute to marine geohazards. This theme focuses on the mechanisms of submarine landslides, sediment instability, and hazard evolution through observations, experiments, and numerical modeling.
+
+**Research interests:**  
+Submarine landslides · Sediment failure · Seafloor deformation · Marine geohazard assessment
 
 
 <br/> 
