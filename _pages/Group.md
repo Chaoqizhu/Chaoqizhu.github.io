@@ -11,7 +11,7 @@ redirect_from:
      style="width:260px; height:auto;">
 </div>
 
-## 致力于探索海底流体与海洋动力过程如何影响海床演化与失稳
+## 致力于揭示海底地质流体与海洋流体动力作用驱动海床演化与失稳的机制
 
 ## 课题组负责人
 <div style="display:flex; align-items:flex-start; margin-bottom:30px;">
