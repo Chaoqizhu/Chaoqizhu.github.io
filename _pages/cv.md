@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-I am an Associate Professor at Ocean University of China and the founder of the **SEA-Fluids Research Group (Seabed Evolution Affected by Fluids)**. My research explores **how oceanic and subsurface fluid processes regulate seabed evolution and marine geohazards**.
+I am an Associate Professor at Ocean University of China and the founder of the SEA-Fluids Research Group. My research explores how **submarine fluids and ocean dynamics regulate seabed evolution, environmental changes, and marine geohazards**.
 
-My research lies at the interface of **marine engineering geology, ocean dynamics, and sedimentary processes**. By integrating deep-sea observations, geophysical exploration, laboratory experiments, and numerical simulations, my group investigates the coupling between fluid migration, ocean forcing, sediment response, and seafloor instability.
+The seafloor is a dynamic interface where geological processes and ocean processes interact across multiple spatial and temporal scales. My group investigates how subsurface fluid activities, ocean forcing, and sediment responses shape seabed environments and influence seafloor stability.
 
-Together with students and collaborators, I study how internal waves, storms, and subsurface fluids regulate seabed evolution across different spatial and temporal scales. Research interests include submarine fluid systems, methane seepage, typhoon-induced benthic storms, sediment resuspension, and submarine landslides.
+By integrating **deep-sea observations, geophysical exploration, laboratory experiments, and numerical simulations**, we aim to reveal the mechanisms controlling fluid migration, sediment transport, seabed deformation, and marine geological hazards.
 
-Through multidisciplinary observations and modeling, my research aims to reveal the mechanisms linking fluid processes to marine environmental changes and geohazards, providing new perspectives for understanding the dynamic evolution of the seafloor.
+Our research spans submarine fluid systems, methane seepage, hydrate-related processes, internal waves, typhoon-driven benthic storms, sediment resuspension, and submarine landslides.
 
-If you are interested in marine fluids, seabed evolution, and deep-sea geohazards, feel free to contact me for potential collaborations and research opportunities.
+Through multidisciplinary approaches, we seek to advance understanding of the dynamic evolution of the seafloor and provide new insights into marine environmental change and geohazard assessment.
 
 <br/> 
 
