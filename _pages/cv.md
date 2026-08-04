@@ -64,6 +64,7 @@ Through multidisciplinary observations and modeling, we seek to advance understa
 **03 Fluid-driven Seabed Instability and Marine Geohazards**<br/>
 * Fluid processes can modify seabed mechanical behavior and contribute to marine geohazards. This theme focuses on the mechanisms of submarine landslides, sediment instability, and hazard evolution through observations, experiments, and numerical modeling.<br/>
 * **Research interests:** Submarine landslides · Sediment failure · Seafloor deformation · Marine geohazard assessment
+
 <br/> 
 
 🎓 Education
