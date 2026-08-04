@@ -52,34 +52,21 @@ Through multidisciplinary observations and modeling, we seek to advance understa
 ======
 ------
 **01 Submarine Geological Fluid Systems**
-
 Subsurface geological fluids play a fundamental role in shaping seabed environments and stability. This theme investigates the occurrence, migration, accumulation, and release of submarine fluids, and their impacts on sediment properties, seabed evolution, and marine geohazards.
-
 **Research interests:**  
 Submarine fluid migration · Methane seepage · Gas hydrate systems · Pore-pressure evolution · Fluid-induced seabed instability
 
-
 <br/>
-
 
 **02 Oceanic Fluid Dynamics and Sediment Response**
-
 Oceanic fluid motions regulate seabed environments through hydrodynamic forcing and sediment redistribution. This theme investigates how internal waves, storms, and ocean circulation influence benthic boundary layers, sediment resuspension, transport, and seabed evolution.
-
-**Research interests:**  
-Internal solitary waves · Typhoon-driven benthic storms · Bottom boundary layers · Sediment resuspension · Sediment transport
-
+**Research interests:** Internal solitary waves · Typhoon-driven benthic storms · Bottom boundary layers · Sediment resuspension · Sediment transport
 
 <br/>
 
-
 **03 Fluid-driven Seabed Instability and Marine Geohazards**
-
 Fluid processes can modify seabed mechanical behavior and contribute to marine geohazards. This theme focuses on the mechanisms of submarine landslides, sediment instability, and hazard evolution through observations, experiments, and numerical modeling.
-
-**Research interests:**  
-Submarine landslides · Sediment failure · Seafloor deformation · Marine geohazard assessment
-
+**Research interests:** Submarine landslides · Sediment failure · Seafloor deformation · Marine geohazard assessment
 
 <br/> 
 
@@ -113,8 +100,7 @@ Submarine landslides · Sediment failure · Seafloor deformation · Marine geoha
 
 9. Xie, Y., Lu, J., Cai, H., Deng, W., Kuang, Z., Wang, T., Kang, D., Zhu, C. (2022).  The in-situ NMR evidence of gas hydrate forming in micro-pores in the Shenhu area, South China Sea. *Energy Reports*, 8, 2936–2946.
 
-10. Feng, X., Wang, L., Ji, C., Wang, H., Zhu, C., Jia, Y. (2023).  The impact of internal solitary waves on deep-sea benthic organisms on the continental slope of the northern South China Sea.  
-*Frontiers in Marine Science*, 10, 1184397.
+10. Feng, X., Wang, L., Ji, C., Wang, H., Zhu, C., Jia, Y. (2023).  The impact of internal solitary waves on deep-sea benthic organisms on the continental slope of the northern South China Sea. *Frontiers in Marine Science*, 10, 1184397.
 
 <br/> 
 
