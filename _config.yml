@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Chaoqi zhu profile.jpg"
   name             : "朱超祁（中国海洋大学）"
-  pronouns         : 山东省泰山学者青年专家<br/>中国科协青托人才入选者<br/>山东省高校青创团队负责人<br/>EI期刊JMEE主编   # example: "she/her"  
+  pronouns         : 山东省泰山学者青年专家<br/>中国科协青托人才入选者<br/>山东省高校青创团队负责人<br/>EI 期刊 JMEE 主编   # example: "she/her"  
   bio              : "SEA-Fluids 课题组<br/><i><font color='red'>S</font>eabed <font color='red'>E</font>volution <font color='red'>A</font>ffected by <font color='red'>Fluids</font></i>"
   location         :  "青岛"
   employer         : "中国海洋大学"
